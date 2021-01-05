@@ -28,15 +28,15 @@ Right now, unless mentioned, the tasks for a new release on the developer relati
 
 _For the next steps, we will share the blog post: if none, we will share the [release notes](https://github.com/meilisearch/MeiliSearch/releases) from GitHub._
 
-3. Share in the #general channel of our [Slack community](https://slack.meilisearch.com/);
-1. Share on [GitHub Discussions](https://github.com/meilisearch/MeiliSearch/discussions);
-1. Share on [Twitter](https://twitter.com/meilisearch);
+3. Share in the #general channel of our [Slack community](https://slack.meilisearch.com/) as yourself;
+1. Share on [GitHub Discussions](https://github.com/meilisearch/MeiliSearch/discussions) as yourself;
+1. Share on [Twitter](https://twitter.com/meilisearch) (from Mention);
 
 _If the release contains enough interesting new features, we should:_
 
-6. share on [LinkedIn](https://www.linkedin.com/company/meilisearch);
-1. share on [Reddit](https://www.reddit.com/) (need to add the sub/subs);
+6. share on [LinkedIn](https://www.linkedin.com/company/meilisearch) (need to be admin of the LinkedIn page);
+1. share on [Reddit](https://www.reddit.com/) (need to add the sub/subs) (credentials in 1Password);
 
 _If the release is astonishing only, we should:_
 
-8. share on [HackerNews](https://news.ycombinator.com/).
+8. share on [HackerNews](https://news.ycombinator.com/) as yourself.
