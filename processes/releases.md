@@ -4,7 +4,7 @@ Those are the steps we need to take every time we release a new version of Meili
 
 ## Responsibilities
 
-Right now, unless mentioned, the tasks for a new release on the developer relations side are divided in three categories or actions with each person accountable for them:
+Right now, unless mentioned otherwise, the tasks for a new release on the developer relations side are divided into three categories or actions with each person accountable for them:
 - Documentation & guides: [@react-learner](https://github.com/react-learner)
 - Blog posts: [@CaroFG](https://github.com/CaroFG)
 - Social media: [@fharper](https://github.com/fharper)
