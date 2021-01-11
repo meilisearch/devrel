@@ -29,7 +29,7 @@ Right now, unless mentioned, the tasks for a new release on the developer relati
 
 ## Release day
 
-1. The prepare-meilisearch-[YYYY]-[WW] branch should be merged with the [master brand](https://github.com/meilisearch/documentation/tree/master), and updated version of the documentation published [in production](https://docs.meilisearch.com/).
+1. The prepare-meilisearch-[YYYY]-[WW] branch should be merged with the [master branch](https://github.com/meilisearch/documentation/tree/master), and updated version of the documentation published [in production](https://docs.meilisearch.com/).
 1. Once in production, we should publish the blog post, if any.
 
 _For the next steps, we will share the blog post: if none, we will share the [release notes](https://github.com/meilisearch/MeiliSearch/releases) from GitHub._
