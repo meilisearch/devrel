@@ -21,6 +21,10 @@ Right now, unless mentioned, the tasks for a new release on the developer relati
 ## Pre-release week
 
 1. If the release has substantial new features, we should draft a [blog](https://blog.meilisearch.com/) post about the new release.
+  * be clear about the new feature(s) and the impact on the users, if any
+  * for API, add code example on how to use it
+  * highlight breaking changes, if any
+  * call to action, if any
 1. The prepare-meilisearch-[YYYY]-[WW] should be reviewed and ready to merge to the [master branch](https://github.com/meilisearch/documentation/tree/master).
 
 ## Release day
