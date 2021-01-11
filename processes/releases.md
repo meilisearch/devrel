@@ -12,7 +12,9 @@ Right now, unless mentioned, the tasks for a new release on the developer relati
 ## After the last release
 
 1. Create a PR on a branch called prepare-meilisearch-[YYYY]-[WW] (i.e.: prepare-meilisearch-2020-03 for the third week of the year 2020) in the [documentation repository](https://github.com/meilisearch/documentation).
-1. Ensure that all new PRs related to the next release are done on the mentioned above.
+1. Add every PR from the MeiliSearch Milestone in the prepare-meilisearch-[YYYY]-[WW] body with checkboxes.
+1. Strikeought the PR that don't need documentation modification.
+1. Check PR boxes when the documentation adding the related information is created.
 1. The documentation must contain at minimum the references of the new feature(s), if any.
 1. The decision should be made if we need to create a [guide](https://docs.meilisearch.com/guides/) for the new feature(s), if any.
 
