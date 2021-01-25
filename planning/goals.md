@@ -118,3 +118,29 @@ Most of our 2021 goals aren’t quantifiable: we do it or don’t do it, there i
 - Streamline & revamp the getting started guide
 
 \* *Will define depending on the content & management time*
+
+## KPIs
+
+List of KPIs (Key Performance Indicators) we will track to see if we are going in the right direction.
+
+### First tier
+- [Blog](https://blog.meilisearch.com/): average time spent
+- Discourse (now [GitHub Discussions](https://github.com/orgs/meilisearch/discussions)): time to first reply
+- [Documentation](https://docs.meilisearch.com/): unique visitors & total views
+- [Github](https://github.com/meilisearch): quality PRs & time to first reply on issues
+- NPS: score
+- [Slack](https://meilicommunity.slack.com/): engagement
+- [YouTube](https://www.youtube.com/channel/UCgXns0g3w8NfMzjx1AvVKwA/): subscribers & video consumption time
+
+### Second tier
+- [Blog](https://blog.meilisearch.com/): unique visitors
+- Discourse (now [GitHub Discussions](https://github.com/orgs/meilisearch/discussions)): users
+- [GitHub](https://github.com/meilisearch): project stars
+- NPS: number of participants
+- [Slack](https://meilicommunity.slack.com/): members
+- [Twitter](https://twitter.com/meilisearch/): engagements
+
+### Third tier
+- [Instagram](https://www.instagram.com/meilisearch/): followers & engagements
+- [LinkedIn](https://www.linkedin.com/company/meilisearch): followers & engagements
+- [Twitter](https://twitter.com/meilisearch/): followers
