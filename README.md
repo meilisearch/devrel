@@ -7,4 +7,4 @@ We will slowly add all our processes in this repo. This is how we roll at MeiliS
 We help developers be successful by nurturing a healthy and open-source community around MeiliSearch. This means listening to, inspiring, educating, and supporting our community however we can.
 
 ## Table of Contents
-- [New MeiliSearch Release](https://github.com/meilisearch/devrel/blob/main/processes/releases.md)
+- [New MeiliSearch Release](processes/releases.md)
