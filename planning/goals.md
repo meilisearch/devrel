@@ -32,9 +32,9 @@ Even though increasing the size of our community increases our chances of gettin
 ![a table highlighting the different goals aligned to the 3Cs of developer relations](../img/goals_2021.png)
 *The 2021 MeiliSearch goals aligned with the [Developer Relations 3Cs](../#the-3cs)*
 
-## Developer Relations 2021 OKR
+## Developer Relations 2021 OKRs
 
-Most of our 2021 goals aren’t quantifiable: we do it or don’t do it, there is no in-between. They are listed in company goals order, Developer Relations Framework first (a devrel only goal) as it is the foundation on which we can achieve the rest. MeiliSearch goals for this year are mostly oriented toward our community, hence the nearly perfect alignment with ours.
+Most of our 2021 goals aren’t quantifiable: we do it or don’t do it, there is no in-between. The OKRs (Objective Key Results) are listed in company goals order, Developer Relations Framework first (a devrel only goal) as it is the foundation on which we can achieve the rest. MeiliSearch goals for this year are mostly oriented toward our community, hence the nearly perfect alignment with ours.
 
 ### Developer Relations Framework
 - Blog posts, tutorials, talks, newsletter items, and conference sponsorship ideas tracking system
