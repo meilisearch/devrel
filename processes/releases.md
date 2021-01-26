@@ -2,7 +2,7 @@
 
 Those are the steps we need to take every time we release a new version of MeiliSearch.
 
-## Table of Content
+## Table of Contents
 - [Responsibilities](#responsibilities)
 - [Immediately after a release](#immediately-after-a-release)
 - [Pre-release week](#pre-release-week)
