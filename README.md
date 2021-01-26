@@ -13,3 +13,12 @@ The three pillars of Developer Relations are **C**ommunity, **C**ontent, and **C
 ![a diagram showing the 3Cs as pillars into developer relations](img/3Cs.png)
 
 \* *adapted from [SendGrid 2014 article](https://sendgrid.com/blog/3-cs-developer-relations/)*
+
+### Lean Approach
+We believe that plans should never be set in stone: they are a lighthouse guiding us in the right direction. We make plans to ensure that we are focusing in the right direction and maximizing our efforts where we can have the greatest impact.
+
+Our process will always be “[lean startup](http://theleanstartup.com/principles)” style.
+
+![The lean aporoach we are taking: a process loop that goes from build, to measure to learn advitam eternam](img/lean_devrel.png)
+
+We will update our yearly planning and tasks based on the KPI we will gather while working on them. If we are not successful, even with all the focus work done, we will take the time to evaluate our processes. We can go as far as modifying the yearly goal to adapt to how our industry and community is responding to our efforts.
