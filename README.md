@@ -46,13 +46,8 @@ Here is an exhaustive list of developer relations activity categories. We are ta
 ### Slack Community Management
 - Ensuring a healthy and active Slack community
 
-### Video Production
-- Participating in or creating our own vidcasts, live streams, and other video-based content (such as tutorials)Social Media Management
+### Social Media Management
 - Posting, commenting, and replying on social media accounts
-
-### Video Production
-- Participating in or creating our own vidcasts, live streams, and other video-based content (such as tutorials)Sponsorship Management
-- Managing sponsorship requests & supporting events we choose to sponsor
 
 ### Tech Media Spokesperson
 - Speaking to tech media on behalf of the company
