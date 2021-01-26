@@ -9,7 +9,7 @@ We will slowly add all our processes in this repo. This is how we roll at MeiliS
 
 ## Others
 - [2021 Goals](planning/goals.md)
-- [Our Releases Process](processes/releases.md)
+- [Our Release Process](processes/releases.md)
 
 
 ## Our Mission
