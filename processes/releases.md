@@ -2,6 +2,12 @@
 
 Those are the steps we need to take every time we release a new version of MeiliSearch.
 
+## Table of Content
+- [Responsibilities](#responsibilities)
+- [Immediately after a release](#immediately-after-a-release)
+- [Pre-release week](#pre-release-week)
+- [Release day](#release-day)
+
 ## Responsibilities
 
 Right now, unless mentioned, the tasks for a new release on the developer relations side are divided in three categories or actions with each person accountable for them:
@@ -9,7 +15,9 @@ Right now, unless mentioned, the tasks for a new release on the developer relati
 - Blog posts: [@CaroFG](https://github.com/CaroFG)
 - Social media: [@fharper](https://github.com/fharper)
 
-## Immediately after a release (start of the monthly release cycle)
+## Immediately after a release
+
+Start of the monthly release cycle
 
 1. Create a draft  on a branch called `prepare-meilisearch-[YYYY]-[WW]` (e.g.: prepare-meilisearch-2020-W3 for the third week of the year 2020) in the [documentation repository](https://github.com/meilisearch/documentation).
 2. Add every PR from the corresponding [MeiliSearch Milestone](https://github.com/meilisearch/MeiliSearch/milestones) to the body of the `prepare-meilisearch-[YYYY]-[WW]` PR, with empty checkboxes next to each.
@@ -18,7 +26,9 @@ Right now, unless mentioned, the tasks for a new release on the developer relati
 5. The documentation should contain at minimum references for the new feature(s), if any.
 6. A decision should be made if we need to create a [guide](https://docs.meilisearch.com/guides/) for the new feature(s), if any.
 
-## Pre-release week (4th week of the monthly cycle)
+## Pre-release week
+
+ 4th week of the monthly cycle
 
 1. If the release has substantial new features, we should draft a [blog](https://blog.meilisearch.com/) post about the new release.
   - be clear about the new feature(s) and the impact on the users, if any
