@@ -21,7 +21,7 @@ MeiliSearch is a powerful, fast, open-source, easy to use and deploy search engi
 Search Engine, Open Source, Rust, Fast
 
 ## Logos
-Here a list of official logos we use in vectorial format.
+Here is a list of official logos we use in vectorial format.
 
 ### MeiliSearch
 
