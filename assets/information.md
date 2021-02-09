@@ -97,6 +97,9 @@ Here a list of official logos we use in vectorial format.
 
 ### Cloud
 
+#### Amazon Web Services (AWS)
+![MeiliSearch Amazon Web Services integration logo](meilisearch-aws.svg)
+
 #### DigitalOcean (DO)
 ![MeiliSearch DigitalOcean integration logo](meilisearch-digitalocean.svg)
 
