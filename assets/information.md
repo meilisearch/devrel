@@ -100,4 +100,7 @@ Here a list of official logos we use in vectorial format.
 #### DigitalOcean (DO)
 ![MeiliSearch DigitalOcean integration logo](meilisearch-digitalocean.svg)
 
+#### Kubernetes (K8S)
+![MeiliSearch Kubernetes integration logo](meilisearch-kubernetes.svg)
+
 <link rel="stylesheet" type="text/css" media="all" href="styles.css" />
