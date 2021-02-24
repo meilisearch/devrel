@@ -1,6 +1,7 @@
 # New MeiliSearch releases - what to do
 
 Those are the steps we need to take every time we release a new version of MeiliSearch.
+Exceptions: alpha versions
 
 ## Table of Contents
 - [Responsibilities](#responsibilities)
@@ -14,6 +15,7 @@ Right now, unless mentioned, the tasks for a new release on the developer relati
 - Documentation: [@react-learner](https://github.com/react-learner)
 - Blog posts: [@CaroFG](https://github.com/CaroFG)
 - Social media: [@fharper](https://github.com/fharper)
+- Demos
 
 ## Immediately after a release
 
@@ -25,6 +27,7 @@ Start of the monthly release cycle
 4. Check the corresponding box once the relevant documentation has been added.
 5. The documentation should contain at minimum references for the new feature(s), if any.
 6. A decision should be made if we need to create a [guide](https://docs.meilisearch.com/guides/) for the new feature(s), if any.
+7. Update demos.
 
 ## Pre-release week
 
