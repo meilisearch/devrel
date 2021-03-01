@@ -29,6 +29,10 @@ Here is a list of official logos we use in vectorial format.
 
 ![MeiliSearch logo](meilisearch-logo.svg)
 
+
+#### Logo - for dark backgrounds
+![MeiliSearch logo](meilisearch-logo-blackbg.svg)
+
 #### Icon
 
 ![MeiliSearch icon](meilisearch-icon.svg)
