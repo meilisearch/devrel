@@ -15,7 +15,7 @@
 MeiliSearch is an open-source, blazingly fast, and hyper-relevant search engine.
 
 ### Long
-MeiliSearch is a powerful, fast, and open-source search engine that's easy to use and deploy. Both searching and indexing are highly customizable. Features such as typo-tolerance, filters, and synonyms are provided out-of-the-box.
+MeiliSearch is a powerful, fast, and open-source search engine that's easy to use and deploy. Both searching and indexing are highly customizable. Features such as typo-tolerance, filters, and synonyms are provided out of the box.
 
 ### Keywords
 Search Engine, Open Source, Rust, Fast
