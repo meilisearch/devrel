@@ -10,7 +10,7 @@ We will slowly add all our processes in this repo. This is how we roll at MeiliS
 ## Others
 - [2021 Goals](planning/goals.md)
 - [Our Release Process](processes/releases.md)
-
+- [Public Speaking](events/speaking.md)
 
 ## Our Mission
 We help developers be successful by nurturing a healthy and open-source community around MeiliSearch. This means listening to, inspiring, educating, and supporting our community however we can.
