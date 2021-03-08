@@ -7,8 +7,8 @@ We help developers be successful by nurturing a healthy and open-source communit
 ## Table of Contents
 - [3Cs](devrel.md#the-3cs)
 - [Activities](devrel.md#activities)
-- [Goals](planning/goals.md)
 - [Lean Approach](devrel.md#lean-approach)
 - [Open Source](opensource.md)
+- [Planning & Goals](planning.md)
 - [Public Speaking](events/speaking.md)
 - [Release Processes](processes/releases.md)
