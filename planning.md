@@ -51,7 +51,7 @@ Before next week, [@fharper](https://github.com/fharper) will share with the tea
 
 To ensure the process takes as less time as possible, our issues in the repositories we own should **always** be up to date.
 
-# 2 Weeks Prior
+### 2 Weeks Prior
 We schedule a one-hour meeting for a team brainstorming about the next quarter:
 - based on the data from last quarters, what is our team velocity?
 - what should be prioritized the next quarter and why?
@@ -60,7 +60,7 @@ For this exercise, each team member should think about the big picture for their
 
 Based on the meeting discussion, each member will add to the planning document the tasks they think they should focus on for the next quarter. **Each** task we want to do should be created as an issue in the [documentation repository](https://github.com/meilisearch/documentation) for anything documentation related and in the [devrel repository](https://github.com/meilisearch/devrel) for anything else.
 
-# 1 Week Prior
+### 1 Week Prior
 
 We schedule a one-hour meeting to review, as a team, the planning document for the next quarter. It ensures that our tasks aligned and that we don’t forget anything. After the meeting, [@fharper](https://github.com/fharper) will add the information in the `planning/YYYY-Q#.md` file.
 
