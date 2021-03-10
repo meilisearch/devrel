@@ -5,6 +5,7 @@ We will slowly add all our processes in this repo. This is how we roll at MeiliS
 We help developers be successful by nurturing a healthy and open-source community around MeiliSearch. This means listening to, inspiring, educating, and supporting our community however we can.
 
 ## Table of Contents
+- [Assets](assets/README.md)
 - [3Cs](devrel.md#the-3cs)
 - [Activities](devrel.md#activities)
 - [Lean Approach](devrel.md#lean-approach)
