@@ -11,3 +11,4 @@
 |[Caroom](https://www.caroom.fr/)|Car comparison website|Car search||
 |[Ruby Toolbox](https://www.ruby-toolbox.com/)|Find actively maintained & popular open source software libraries for the Ruby programming language|Search for Ruby libraries|[official site](https://www.ruby-toolbox.com/blog/2021-03-19/search-speed-improvements)|
 |[Hedira](https://www.hedira.io/)|Houseplant app that sends you tailored care reminders to your phone.|Plant search|[MeiliSearch Community Slack](https://meilicommunity.slack.com/archives/C01F44SSCCA/p1606344526015300)|
+|[Quasar](https://next.quasar.dev/)|MIT licensed open-source Vue.js based framework| Site search| [MeiliSearch Community Slack](https://meilicommunity.slack.com/archives/C01F44SSCCA/p1614346362002000)|
