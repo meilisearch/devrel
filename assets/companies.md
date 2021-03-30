@@ -1,6 +1,6 @@
 # Companies using MeiliSearch
 
-| Companies | Description |How they use us |Source  |
+| Companies & Organizations| Description |How they use us |Source  |
 |--|--|--|--|
 | [Platform.sh](https://docs.platform.sh/) | Platform-as-a-Service built especially for continuous deployment |	Cross-site search  | [tweet](https://twitter.com/robertDouglass/status/1262395403363921922) |
 |[Docxtemplater](https://docxtemplater.com/)|Create templates and generate some Word, Powerpoint and Excel documents from javascript objects or JSON|Site search (modules, documentation, faq)||
