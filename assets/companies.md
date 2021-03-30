@@ -1,4 +1,4 @@
-# Companies using MeiliSearch
+# Companies & Organizations using MeiliSearch
 
 | Companies & Organizations| Description |How they use us |Source  |
 |--|--|--|--|
