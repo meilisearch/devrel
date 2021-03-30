@@ -3,6 +3,7 @@
 |Link  |  Description|
 |--|--|
 [2019/01/13](https://github.com/spacejam/sled) |Big thanks in the README!|
+[2020/09/03](https://www.youtube.com/watch?v=W2Z7fbCLSTw&t=45s) | Mention as "personal favorite" in this video about DB paradigms|
 [2020/10/20](https://spinscale.de/posts/2020-10-20-search-engines-and-libraries-overview.html)| Article comparing us to ElasticSearch||
 [2020/10/??](https://www.weblogin.fr/blog/120-meilisearch-une-alternative-a-algolia) |Article: MeiliSearch une alternative à Algolia|
 [2020/12/18](https://dbweekly.com/issues/335) |“Top code and tools of 2020” section of the DB Weekly newsletter which have nearly 17000 subscribers|
