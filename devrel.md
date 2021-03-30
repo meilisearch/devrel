@@ -37,7 +37,7 @@ P4 - Will not have
 Priority P0 is for urgent things needed on our team or another team needing our help. They are the reactive mode tasks. In a perfect world, those would-be situations created by external factors as we should plan better on our side.
 
 ### P1 - Must Have
-Priority P1 is for non-negotiable tasks that will help us achieve our goals with the maximum impact. Those are the tasks, when planned for a quarter, should be done by the next one.
+Priority P1 is for non-negotiable tasks that will help us achieve our goals with the maximum impact. Those are the tasks, when planned for a quarter, that should be done by the next one.
 
 ### P2 - Should Have
 Priority P2 is for important initiatives that may not bring as much value to the team than the P1. It includes things we should do that won’t directly help us achieve our goals, but needed to move in the right direction. A P2 can become P1 when they are critical for the business or are prerequisites for another P1 (i.e.: changing the documentation framework—we need it to manage different versions of MeiliSearch after v1, but it has no direct impact on our goals).
