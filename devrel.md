@@ -34,7 +34,7 @@ P3 - Could have
 P4 - Will not have
 
 ### P0 - Urgent
-Priority P0 is for urgent things needing on our team or another team needing our help. They are the reactive mode tasks. In a perfect world, those would-be situations created by external factors as we should plan better on our side.
+Priority P0 is for urgent things needed on our team or another team needing our help. They are the reactive mode tasks. In a perfect world, those would-be situations created by external factors as we should plan better on our side.
 
 ### P1 - Must Have
 Priority P1 is for non-negotiable tasks that will help us achieve our goals with the maximum impact. Those are the tasks, when planned for a quarter, should be done by the next one.
