@@ -8,7 +8,9 @@
   - [Framework Logos](#frameworks)
   - [Integrations Logos](#integrations)
   - [Cloud Logos](#cloud)
-
+- [Companies and organizations that use MeiliSearch](companies.md)
+- [Love from our users](meili-love.md)
+- [Mentions of MeiliSearch](mentions.md)
 ## Product Description
 
 ### Short
