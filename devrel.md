@@ -25,7 +25,7 @@ Our process will always be “[lean startup](http://theleanstartup.com/principle
 We will update our yearly planning and tasks based on the KPI we will gather while working on them. If we are not successful, even with all the focus work done, we will take the time to evaluate our processes. We can go as far as modifying the yearly goal to adapt to how our industry and community is responding to our efforts.
 
 ## Priority System
-We are using a priority system for our tasks and goals based them on the [MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW_method).
+We are using a priority system for our tasks and goals based on the [MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW_method).
 
 P0 - Urgent
 P1 - Must have
