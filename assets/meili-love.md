@@ -60,3 +60,4 @@ https://github.com/laravel/homestead/releases/tag/v12.1.0](https://meilicommunit
  ! blazing fast. It assumes nothing and even comes with its OWN WEB FRONTEND to get you started. Absolute madlads!](https://twitter.com/rahulravindrn/status/1374666541300469766?s=21)
 - 2021/03/24: [Also their documentation is 🔥](https://twitter.com/rahulravindrn/status/1374667974972383239?s=21)
 - 2021/03/30: [Whoa! Didn't expect the new engine that fast, you people rock! Thanks for your work! 🚀](https://github.com/meilisearch/MeiliSearch/issues/1283#issuecomment-810440510)
+- 2021/04/05: [@meilisearch is awesome!](https://twitter.com/veekthoven/status/1379060396909334533)
