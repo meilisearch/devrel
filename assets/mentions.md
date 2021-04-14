@@ -18,7 +18,7 @@
 [2021/01/20](https://www.21cloudbox.com/blog/solutions/algolia-alternatives-in-china.html) |Alternative to Algolia in China and how to quickly use us|
 [2021/01/22](https://blog.logrocket.com/meilisearch-a-definitive-guide/) |Post commissioned by LogRocket|
 [2021/01/25](https://jolicode.com/blog/elasticsearch-the-right-way-in-symfony) |Quick mention|
-[2021/01/25](https://pociot.dev/35-blazing-fast-search-with-meilisearch-and-laravel-forge) |Marcel Pociot - PHP & Laravel community -  wrote a blog post about us| 
+[2021/01/25](https://pociot.dev/35-blazing-fast-search-with-meilisearch-and-laravel-forge) |Marcel Pociot - PHP & Laravel community -  wrote a blog post about us|
 [2021/01/26](https://serokell.io/blog/open-source-rust) |Open-Source Rust: 24 Awesome Frameworks, Projects, and Libraries|
 [2021/01/27](https://bejamas.io/blog/jamstack-search/) |Mention in this article about search & JAMStack.|
 [2021/02/01](https://tighten.co/blog/full-text-search-with-meilisearch-and-scout/) |Full-Text Search with MeiliSearch and Laravel Scout|
@@ -35,3 +35,4 @@
 [2021/03/09](https://tr.indeed.com/viewjob?t=Devops+Engineer&c=Talentra&l=%C4%B0stanbul&jk=f52ed9be958cc088&rtk=1f0cr8cagstbh800&from=rss) |We are mentioned in a job description as tech the person should know|
 [2021/03/09](https://headlesscommerce.org/categories/search) |Listed in the search section|
 [2021/03/15](https://blog.laravel.com/forge-meilisearch-server-type) | "Forge: MeiliSearch Server Type"
+[2021/04/13](https://serokell.io/blog/rust-in-production-meilisearch) | "Rust in Production: MeiliSearch"
