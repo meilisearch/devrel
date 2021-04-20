@@ -36,3 +36,4 @@
 [2021/03/09](https://headlesscommerce.org/categories/search) |Listed in the search section|
 [2021/03/15](https://blog.laravel.com/forge-meilisearch-server-type) | "Forge: MeiliSearch Server Type"
 [2021/04/13](https://serokell.io/blog/rust-in-production-meilisearch) | "Rust in Production: MeiliSearch"
+[2021/04/19](https://blog.simonireilly.com/posts/serverless-search) | "Serverless search with Meilisearch and Google Cloud Run"
