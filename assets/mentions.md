@@ -35,4 +35,3 @@
 [2021/03/09](https://tr.indeed.com/viewjob?t=Devops+Engineer&c=Talentra&l=%C4%B0stanbul&jk=f52ed9be958cc088&rtk=1f0cr8cagstbh800&from=rss) |We are mentioned in a job description as tech the person should know|
 [2021/03/09](https://headlesscommerce.org/categories/search) |Listed in the search section|
 [2021/03/15](https://blog.laravel.com/forge-meilisearch-server-type) | "Forge: MeiliSearch Server Type"
-[2021/04/13](https://serokell.io/blog/rust-in-production-meilisearch) | "Rust in Production: MeiliSearch"
