@@ -37,3 +37,5 @@
 [2021/03/15](https://blog.laravel.com/forge-meilisearch-server-type) | "Forge: MeiliSearch Server Type"
 [2021/04/13](https://serokell.io/blog/rust-in-production-meilisearch) | "Rust in Production: MeiliSearch"
 [2021/04/19](https://blog.simonireilly.com/posts/serverless-search) | "Serverless search with Meilisearch and Google Cloud Run"
+[2021/05/03](http://www.skrejci.com/2021/05/meilisearch-under-windows/) | "MeiliSearch under Windows"
+[2021/05/07](https://blog.simonireilly.com/posts/serverless-search) | "Serverless search with Meilisearch and Google Cloud Run"
