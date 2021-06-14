@@ -39,3 +39,5 @@
 [2021/04/19](https://blog.simonireilly.com/posts/serverless-search) | "Serverless search with Meilisearch and Google Cloud Run"
 [2021/05/03](http://www.skrejci.com/2021/05/meilisearch-under-windows/) | "MeiliSearch under Windows"
 [2021/05/22](https://hashnode.com/post/how-to-add-a-blazing-fast-full-text-search-capability-to-cloud-firestore-using-meilisearch-introduction-15-ckoz64twc07ppdss1hk3mfeh6) | "How to add a blazing-fast full-text search capability to Cloud Firestore using MeiliSearch"
+[2021/06/07](https://www.universfreebox.com/article/488519/lecole-42-fondee-par-xavier-niel-lance-un-nouveau-programme-dacceleration-de-startups-a-station-f) | "L’école 42 fondée par Xavier Niel lance un nouveau programme d’accélération de startups à Station F"
+[2021/06/07](https://www.lemondeinformatique.fr/actualites/lire-42-ouvre-un-programme-d-acceleration-a-station-f-83181.html) | "42 ouvre un programme d'accélération à Station F"
