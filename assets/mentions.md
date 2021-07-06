@@ -2,7 +2,8 @@
 
 |Link  |  Description|
 |--|--|
-[2019/01/13](https://github.com/spacejam/sled) |Big thanks in the README!|
+[2019/01/13](https://github.com/spacejam/sled) |"List of top Open Source alternatives to popular products." listed as an alternative to Algolia along with ElasticSearch|
+[2020/05/26](https://dev.to/fayaz/top-open-source-alternatives-to-popular-products-stop-paying-16jn |Big thanks in the README!|
 [2020/09/03](https://www.youtube.com/watch?v=W2Z7fbCLSTw&t=45s) | Mention as "personal favorite" in this video about DB paradigms|
 [2020/10/20](https://spinscale.de/posts/2020-10-20-search-engines-and-libraries-overview.html)| Article comparing us to ElasticSearch||
 [2020/10/??](https://www.weblogin.fr/blog/120-meilisearch-une-alternative-a-algolia) |Article: MeiliSearch une alternative à Algolia|
@@ -21,6 +22,8 @@
 [2021/01/25](https://pociot.dev/35-blazing-fast-search-with-meilisearch-and-laravel-forge) |Marcel Pociot - PHP & Laravel community -  wrote a blog post about us|
 [2021/01/26](https://serokell.io/blog/open-source-rust) |Open-Source Rust: 24 Awesome Frameworks, Projects, and Libraries|
 [2021/01/27](https://bejamas.io/blog/jamstack-search/) |Mention in this article about search & JAMStack.|
+[2021/01/27](https://dev.to/rphilogene/deploy-and-try-meilisearch-in-3-steps-30-seconds-lg7) |"Deploy and try Meilisearch in 3 steps - 30 seconds"|
+[2021/01/27](https://dev.to/adithyasrinivasan/elasticsearch-vs-meilisearch-3235) |"Elasticsearch vs Meilisearch "|
 [2021/02/01](https://tighten.co/blog/full-text-search-with-meilisearch-and-scout/) |Full-Text Search with MeiliSearch and Laravel Scout|
 [2021/02/11](https://twitter.com/DataCouncilAI/status/1359905254205247491) |Mention in survey|
 [2021/02/11](https://searchcloudcomputing.techtarget.com/opinion/The-Elasticsearch-sideshow-and-why-Algolia-is-the-better-bet) |Quick menton|
@@ -35,9 +38,14 @@
 [2021/03/09](https://tr.indeed.com/viewjob?t=Devops+Engineer&c=Talentra&l=%C4%B0stanbul&jk=f52ed9be958cc088&rtk=1f0cr8cagstbh800&from=rss) |We are mentioned in a job description as tech the person should know|
 [2021/03/09](https://headlesscommerce.org/categories/search) |Listed in the search section|
 [2021/03/15](https://blog.laravel.com/forge-meilisearch-server-type) | "Forge: MeiliSearch Server Type"
+[2021/03/25](https://dev.to/raspberrytyler/installing-laravel-sail-on-a-raspberry-pi-4hck) | Mention in this tutorial about "Installing Laravel on a Raspberry Pi with Sail"
 [2021/04/13](https://serokell.io/blog/rust-in-production-meilisearch) | "Rust in Production: MeiliSearch"
 [2021/04/19](https://blog.simonireilly.com/posts/serverless-search) | "Serverless search with Meilisearch and Google Cloud Run"
 [2021/05/03](http://www.skrejci.com/2021/05/meilisearch-under-windows/) | "MeiliSearch under Windows"
+[2021/05/05](https://www.heapstack.sh/why-you-should-code-in-rust-in-2021) | "Why you should code in Rust in 2021", listed in the Rust projects the author recommends
 [2021/05/22](https://hashnode.com/post/how-to-add-a-blazing-fast-full-text-search-capability-to-cloud-firestore-using-meilisearch-introduction-15-ckoz64twc07ppdss1hk3mfeh6) | "How to add a blazing-fast full-text search capability to Cloud Firestore using MeiliSearch"
 [2021/06/07](https://www.universfreebox.com/article/488519/lecole-42-fondee-par-xavier-niel-lance-un-nouveau-programme-dacceleration-de-startups-a-station-f) | "L’école 42 fondée par Xavier Niel lance un nouveau programme d’accélération de startups à Station F"
 [2021/06/07](https://www.lemondeinformatique.fr/actualites/lire-42-ouvre-un-programme-d-acceleration-a-station-f-83181.html) | "42 ouvre un programme d'accélération à Station F"
+[2021/06/30](https://dev.to/adrianvincent/i-taught-myself-how-to-code-so-i-could-build-comparedial-a-phone-contract-comparison-website-13me) | "I taught myself how to code so I could build CompareDial - a phone contract comparison website" the author explains he replaced SQL queries with MeiliSearch
+[2021/06/22](https://dev.to/jdgamble555/firestore-full-text-search-package-1ea7) | Brief mention as an option for "Firestore Full Text Search Package"
+[2021/07/05](https://vishnuch.tech/5-open-source-search-engines-for-your-website) | "5 Open-Source Search Engines For your Website"
