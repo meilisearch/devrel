@@ -49,3 +49,5 @@
 [2021/06/30](https://dev.to/adrianvincent/i-taught-myself-how-to-code-so-i-could-build-comparedial-a-phone-contract-comparison-website-13me) | "I taught myself how to code so I could build CompareDial - a phone contract comparison website" the author explains he replaced SQL queries with MeiliSearch
 [2021/06/22](https://dev.to/jdgamble555/firestore-full-text-search-package-1ea7) | Brief mention as an option for "Firestore Full Text Search Package"
 [2021/07/05](https://vishnuch.tech/5-open-source-search-engines-for-your-website) | "5 Open-Source Search Engines For your Website"
+[2021/07/07](https://github.com/vuepress/awesome-vuepress) | MeiliSearch is listed in the VuePress repo as one of the "awesome things related to VuePress"
+
