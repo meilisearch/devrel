@@ -50,4 +50,6 @@
 [2021/06/22](https://dev.to/jdgamble555/firestore-full-text-search-package-1ea7) | Brief mention as an option for "Firestore Full Text Search Package"
 [2021/07/05](https://vishnuch.tech/5-open-source-search-engines-for-your-website) | "5 Open-Source Search Engines For your Website"
 [2021/07/07](https://github.com/vuepress/awesome-vuepress) | MeiliSearch is listed in the VuePress repo as one of the "awesome things related to VuePress"
+[2021/07/22](https://www.btw.so/open-source-alternatives/meilisearch) | MeiliSearch is listed as an open-source alternative to Algolia
+[2021/07/28](https://blog.min.io/master-full-text-search-with-meilisearch-on-minio/) | "Master Full Text Search with MeiliSearch on MinIO"
 
