@@ -3,7 +3,7 @@
 |Link  |  Description|
 |--|--|
 [2019/01/13](https://github.com/spacejam/sled) |"List of top Open Source alternatives to popular products." listed as an alternative to Algolia along with ElasticSearch|
-[2020/05/26](https://dev.to/fayaz/top-open-source-alternatives-to-popular-products-stop-paying-16jn |Big thanks in the README!|
+[2020/05/26](https://dev.to/fayaz/top-open-source-alternatives-to-popular-products-stop-paying-16jn) |Big thanks in the README!|
 [2020/09/03](https://www.youtube.com/watch?v=W2Z7fbCLSTw&t=45s) | Mention as "personal favorite" in this video about DB paradigms|
 [2020/10/20](https://spinscale.de/posts/2020-10-20-search-engines-and-libraries-overview.html)| Article comparing us to ElasticSearch||
 [2020/10/??](https://www.weblogin.fr/blog/120-meilisearch-une-alternative-a-algolia) |Article: MeiliSearch une alternative à Algolia|
@@ -50,4 +50,6 @@
 [2021/06/22](https://dev.to/jdgamble555/firestore-full-text-search-package-1ea7) | Brief mention as an option for "Firestore Full Text Search Package"
 [2021/07/05](https://vishnuch.tech/5-open-source-search-engines-for-your-website) | "5 Open-Source Search Engines For your Website"
 [2021/07/07](https://github.com/vuepress/awesome-vuepress) | MeiliSearch is listed in the VuePress repo as one of the "awesome things related to VuePress"
+[2021/07/22](https://www.btw.so/open-source-alternatives/meilisearch) | MeiliSearch is listed as an open-source alternative to Algolia |
+[2021/07/28](https://blog.min.io/master-full-text-search-with-meilisearch-on-minio/) | "Master Full Text Search with MeiliSearch on MinIO"
 
