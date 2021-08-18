@@ -51,5 +51,9 @@
 [2021/07/05](https://vishnuch.tech/5-open-source-search-engines-for-your-website) | "5 Open-Source Search Engines For your Website"
 [2021/07/07](https://github.com/vuepress/awesome-vuepress) | MeiliSearch is listed in the VuePress repo as one of the "awesome things related to VuePress"
 [2021/07/22](https://www.btw.so/open-source-alternatives/meilisearch) | MeiliSearch is listed as an open-source alternative to Algolia |
-[2021/07/28](https://blog.min.io/master-full-text-search-with-meilisearch-on-minio/) | "Master Full Text Search with MeiliSearch on MinIO"
-
+[2021/07/24](https://postsrc.com/posts/make-your-laravel-search-smarter-with-laravel-scout-and-meilisearch) | "Make Your Laravel Search Smarter With Laravel Scout and MeiliSearch"|
+[2021/07/28](https://blog.min.io/master-full-text-search-with-meilisearch-on-minio/) | "Master Full Text Search with MeiliSearch on MinIO" |
+[2021/07/30](https://postsrc.com/posts/how-to-deploy-meilisearch-on-laravel-forge) | "How to Deploy MeiliSearch on Laravel Forge" |
+[2021/08/03](https://okhlopkov.com/deploy-meilisearch-with-dokku-for-production/) | "Deploy MeiliSearch with Dokku for production" |
+[2021/08/11](https://postsrc.com/posts/setting-up-meilisearch-on-production-ubuntu-for-laravel-project) | "Setting up Meilisearch on Production Ubuntu for Laravel project " |
+[2021/08/14](https://tech.marksblogg.com/meilisearch-full-text-search.html) | "MeiliSearch: A Minimalist Full-Text Search Engine" |
