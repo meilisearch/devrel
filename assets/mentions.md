@@ -58,4 +58,5 @@
 [2021/08/11](https://postsrc.com/posts/setting-up-meilisearch-on-production-ubuntu-for-laravel-project) | "Setting up Meilisearch on Production Ubuntu for Laravel project " |
 [2021/08/14](https://tech.marksblogg.com/meilisearch-full-text-search.html) | "MeiliSearch: A Minimalist Full-Text Search Engine" |
 [2021/09/06](https://medium.com/@stevapps256/how-i-implemented-full-text-search-on-firebase-with-meilisearch-for-secrets-app-6b853484c999) | "How I implemented full-text search on Firebase with MeiliSearch for Secrets App" |
+[2021/10/01](https://bors.tech/newsletter/2021/10/01/tmib-57/) | Mention at this month's featured user in the Bors newsletter |
 [2021/10/03](https://medium.com/@biarosenbaum/how-to-install-a-specific-version-of-meilisearch-2552bee8c351) | "How to Install a Specific Version of MeiliSearch" |
