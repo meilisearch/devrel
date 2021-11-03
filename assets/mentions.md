@@ -62,3 +62,4 @@
 [2021/10/03](https://medium.com/@biarosenbaum/how-to-install-a-specific-version-of-meilisearch-2552bee8c351) | "How to Install a Specific Version of MeiliSearch" |
 [2021/10/05](https://blog.cloud66.com/adding-search-to-rails-with-meilisearch/) | "Adding Search to Rails with MeiliSearch" |
 [2021/10/15](https://www.atatus.com/blog/a-comprehensive-guide-to-meilisearch/) | "A Comprehensive Guide to MeiliSearch" |
+[2021/10/26](https://www.medusa-commerce.com/post/meilisearch-and-medusa) | "Blazing-fast product search w. MeiliSearch and Medusa" |
