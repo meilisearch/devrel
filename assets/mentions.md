@@ -7,6 +7,7 @@
 [2020/09/03](https://www.youtube.com/watch?v=W2Z7fbCLSTw&t=45s) | Mention as "personal favorite" in this video about DB paradigms|
 [2020/10/20](https://spinscale.de/posts/2020-10-20-search-engines-and-libraries-overview.html)| Article comparing us to ElasticSearch||
 [2020/10/??](https://www.weblogin.fr/blog/120-meilisearch-une-alternative-a-algolia) |Article: MeiliSearch une alternative à Algolia|
+[2020/11/08](https://codefibershq.com/blog/hands-on-meilisearch-a-next-generation-search-engine-for-modern-web) | "Hands on with: MeiliSearch - A next generation search engine for modern web"|
 [2020/12/18](https://dbweekly.com/issues/335) |“Top code and tools of 2020” section of the DB Weekly newsletter which have nearly 17000 subscribers|
 [2020/12/21](https://seedcamp.com/seedcamp-2020-year-in-review/) |SeedCamp mentioned us as being part of their portfolio now|
 [2020/12/29](https://geekflare.com/self-hosted-search-engine-software/ )|#1 in this self hosted search engine article|
