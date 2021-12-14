@@ -9,7 +9,6 @@ We help developers be successful by nurturing a healthy and open-source communit
 - [3Cs](devrel.md#the-3cs)
 - [Activities](devrel.md#activities)
 - [Lean Approach](devrel.md#lean-approach)
-- [Onboarding](onboarding.md)
 - [Open Source](opensource.md)
 - [Planning & Goals](planning.md)
 - [Public Speaking](events/speaking.md)
