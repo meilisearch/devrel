@@ -12,9 +12,7 @@ Exceptions: alpha versions
 ## Responsibilities
 
 Right now, unless mentioned, the tasks for a new release on the developer relations side are divided in three categories or actions with each person accountable for them:
-- Documentation: [@react-learner](https://github.com/react-learner)
-- Blog posts: [@CaroFG](https://github.com/CaroFG)
-- Social media: [@fharper](https://github.com/fharper)
+
 - Demos
 
 ## Immediately after a release
