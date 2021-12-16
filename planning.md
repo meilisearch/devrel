@@ -1,3 +1,7 @@
+**As of December 2021, this content is deprecated and saved here as a reference
+**
+---
+
 # Developer Relations Planning & Goals
 
 - [Planning Processes](#planning-processes)
