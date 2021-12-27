@@ -10,12 +10,13 @@ Works in the integration team to helps developers use MeiliSearch in all environ
 
 ## Experience
 
-N/A
+- April 2021 - [StrapiConf 2021: Integrate open-source search into your Strapi project](https://www.youtube.com/watch?v=brG3738V2bU)
+- June 2021 - [Strapi Webinar: Modern Search Solutions for the Jamstack with MeiliSearch](https://www.youtube.com/watch?v=mO_I02ZAfmM)
 
 ## Links
 
 - [GitHub Page](https://github.com/bidoubiwa)
 
-## Requierements
+## Requirements
 
 - Water available
