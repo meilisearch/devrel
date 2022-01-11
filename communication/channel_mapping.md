@@ -1,4 +1,4 @@
-Following a project initiated in #72, this is the mapping of the current communication channels that are used by DevRel.
+Following a project initiated in [#72](https://github.com/meilisearch/devrel/issues/72), this is the mapping of the current communication channels that are used by DevRel.
 
 | Category | Channel | Use case |
 |---|---|---|
