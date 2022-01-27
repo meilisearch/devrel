@@ -3,14 +3,14 @@
 ## Table of Contents
 - [Product Description](#product-description)
 - [Logos](#logos)
-  - [MeiliSearch Logos](#meilisearch)
+  - [Meilisearch Logos](#meilisearch)
   - [Software Developement Kits (SDKs)](#software-developement-kits-sdks)
   - [Framework Logos](#frameworks)
   - [Integrations Logos](#integrations)
   - [Cloud Logos](#cloud)
-- [Companies and organizations that use MeiliSearch](companies.md)
+- [Companies and organizations that use Meilisearch](companies.md)
 - [Love from our users](meili-love.md)
-- [Mentions of MeiliSearch](mentions.md)
+- [Mentions of Meilisearch](mentions.md)
 ## Product Description
 
 ### Short
