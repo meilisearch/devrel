@@ -10,6 +10,4 @@ We help developers be successful by nurturing a healthy and open-source communit
 - [Activities](devrel.md#activities)
 - [Lean Approach](devrel.md#lean-approach)
 - [Open Source](opensource.md)
-- [Planning & Goals](planning.md)
 - [Public Speaking](events/speaking.md)
-- [Release Processes](processes/releases.md)
