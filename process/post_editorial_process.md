@@ -9,7 +9,7 @@ Here are the main stages to respect:
 
 1. A Meilisearch member or an external contributor decides to write a post.
 
-**Action for the author*:  Create a new row in the [post forecast table in this repo](https://github.com/meilisearch/devrel/blob/main/communication/post_forecast.md) with the following field values:
+**Action for the author**:  Create a new row in the [post forecast table in this repo](https://github.com/meilisearch/devrel/blob/main/communication/post_forecast.md) with the following field values:
 - **Topic**: the topic of your post
 - **Link**: a link to the post being written (any platform is ok: Notion, HackMD, Google docs
 - **Your name**: select your name
