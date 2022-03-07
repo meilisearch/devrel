@@ -16,5 +16,5 @@ We'll follow the progress of a post from the idea to publication with [this tabl
 | 4 | The author has a draft ready for proofread by the Meilisearch's documentation team. | Change **Status** to `proofreading needed` |  |
 | 5 | Meilisearch's documentation team is currently proofreading the post. |  | Change **Status** to `proofreading in progress` |
 | 6 | Meilisearch's documentation team has finished proofreading the post. |  | Change **Status** to `proofreading finished` |
-| 7 | reviews the suggestions made by the proofreaders.<br>The author repeats steps 5 and 6 until the post is ready for publication. | Change **Status** to `ready for publication` |  |
+| 7 | The author reviews the suggestions made by the proofreaders.<br>The author repeats steps 5 and 6 until the post is ready for publication. | Change **Status** to `ready for publication` |  |
 | 8 | Meilisearch's team take care of the Publication if the medium is owned by Meilisearch,<br>otherwise, the author takes care of getting the post published. | - Change **Status** to `published`.<br>- Follow the process to indicate what info are in the post for maintenance reasons. See [#348](https://github.com/meilisearch/devrel/issues/348) |  |
