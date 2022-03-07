@@ -1,5 +1,5 @@
 # Context
-We want to establish the editorial process for taking a blog post from draft to publication.
+We want to establish the editorial **process** for taking **a blog post** (or an article that could be published elsewhere) from draft to publication.
 
 # Tools
 We'll follow the progress of a post from the idea to publication with [this table](https://github.com/meilisearch/devrel/blob/main/communication/post_forecast.md).
