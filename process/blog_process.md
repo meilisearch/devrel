@@ -10,5 +10,8 @@ This file aims to gather every process, guide and ressources to publish blog pos
 ## Processes
 - [Editorial process to get a post ready for publication](https://github.com/meilisearch/devrel/blob/main/process/post_editorial_process.md)
 
+## Tools
+- Writing assistant: [Grammarly](https://www.grammarly.com/) (Meilisearch team members have an access or accounts on Grammarly)
+
 ## Currently missing items of this blog process
 - TODO
