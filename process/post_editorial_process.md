@@ -12,7 +12,7 @@ We'll follow the progress of a post from the idea to publication with [this tabl
 |---|---|---|---|
 | 1 | A Meilisearch member or an external contributor decides to write a post. | Create a new row in the [post forecast table in this repo](https://github.com/meilisearch/devrel/blob/main/communication/post_forecast.md) in this repo with the following field values:<br>- **Topic**: the topic of your post<br>- **Link**: a link to the post being written (any platform is ok: Notion, HackMD, Google docs<br>- **Your name**: select your name<br>- **Your team**: select your team<br>- **Medium**: describe where your post should be published (sometimes it's not the blog)<br>- **Status**: `not started`.<br>- **ETA**: estimated date for publishing your post |  |
 | 2 | The author writes the post. | Change **Status** to `writing in progress` |  |
-| 3 | The author has finished the first draft of the post.<br>The post is ready for review by the editorial committee or any other required feedback on the content. | Change **Status** to `review needed` |  |
+| 3 | The author has finished the first draft of the post.<br>The post is ready for review by the editorial committee or any other required feedback on the content (e.g., a team manager). | Change **Status** to `review needed` |  |
 | 4 | The author has a draft ready for proofread by the Meilisearch's documentation team. | Change **Status** to `proofreading needed` |  |
 | 5 | Meilisearch's documentation team is currently proofreading the post. |  | Change **Status** to `proofreading in progress` |
 | 6 | Meilisearch's documentation team has finished proofreading the post. |  | Change **Status** to `proofreading finished` |
