@@ -1,6 +1,6 @@
 | Field | Topic | Link | Your name | Your team | Medium | ETA | Status |
 |---|---|---|---|---|---|---|---|
-| Description | Topic of your post | Link to the post being written (any platform is ok: Notion, HackMD, Google docs..) | Your name | Your team at Meilisearch or `external` if you're an external contributor | Mediums where the post will be published | Tentative date for the publication | Status of the publication process |
+| Description | Topic of your post | Link to the post being written | Your name | Your team at Meilisearch or `external` if you're an external contributor | Mediums where the post will be published | Tentative date for the publication | Status of the publication process |
 |1| Open source | [Google Docs](https://docs.google.com/document/d/189oourMhmzPrmP0wS9o_iC59sbRNFPChEtszS2YpWcQ/edit) _(private link)_| [@qdequele](https://github.com/qdequele) | Founders | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-02-14 |  |
 |2| Gatsby guide | [Notion](https://www.notion.so/meilisearch/Add-search-in-your-Gatsby-project-using-Meilisearch-Shorter-Format-f2c7a52e164b4b40b82c67e4c2e45b34) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [DevRel team](https://github.com/orgs/meilisearch/teams/devrel-team) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-02-28 |  |
 |3| Demo for Multitenancy feature in Meilisearch |  | [@shivaylamba](https://github.com/shivaylamba) | [DevRel team](https://github.com/orgs/meilisearch/teams/devrel-team) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-03-09 |  |
