@@ -1,5 +1,15 @@
 | Field | Topic | Link | Your name | Your team | Medium | ETA | Status |
 |---|---|---|---|---|---|---|---|
-| Description | Topic of your post | Link to the post being written (any platform is ok: Notion, HackMD, Google docs..) | Your name | Inidcate your team at Meilisearch or if you're an external contributor | Mediums where the post published | Tentative date for the publication | Status of the publication process |
-|1|  |  |  |  |  |  |  |
-|2|  |  |  |  |  |  |  |
+| Description | Topic of your post | Link to the post being written (any platform is ok: Notion, HackMD, Google docs..) | Your name | Your team at Meilisearch or `external` if you're an external contributor | Mediums where the post will be published | Tentative date for the publication | Status of the publication process |
+|1| Open source | [Google Docs](https://docs.google.com/document/d/189oourMhmzPrmP0wS9o_iC59sbRNFPChEtszS2YpWcQ/edit) _(private link)_| [@qdequele](https://github.com/qdequele) | Founders | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-02-14 |  |
+|2| Gatsby guide | [Notion](https://www.notion.so/meilisearch/Add-search-in-your-Gatsby-project-using-Meilisearch-Shorter-Format-f2c7a52e164b4b40b82c67e4c2e45b34) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [DevRel team](https://github.com/orgs/meilisearch/teams/devrel-team) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-02-28 |  |
+|3| Demo for Multitenancy feature in Meilisearch |  | [@shivaylamba](https://github.com/shivaylamba) | [DevRel team](https://github.com/orgs/meilisearch/teams/devrel-team) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-03-09 |  |
+|4| HR blog post | [Notion](https://www.notion.so/meilisearch/HR-blog-post-71af13281a554138b1043f283aaa7662) _(private link)_ | [Morgane Neff](https://meilisearch.notion.site/Morgane-Neff-ce9c8e7d86ab46a6bdd64b3164bbec25) | HR team | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-03-14 |  |
+|5| Newsletter number 5 |  |  |  | [Meilisearch newsletter](https://us2.campaign-archive.com/home/?u=27870f7b71c908a8b359599fb&id=31f7b55f37) | 2022-03-21 |  |
+|6| Algolia Migration Guide | [Notion](https://www.notion.so/meilisearch/Migration-guide-from-Algolia-to-Meilisearch-26595bf49f9a4ca39d0ec1a57349e5a1) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [DevRel team](https://github.com/orgs/meilisearch/teams/devrel-team) | [Meilisearch documentation](https://docs.meilisearch.com/) | 2022-03-24 |  |
+|7| Cloud private launch blog post | https://github.com/meilisearch/tmp-public-release-cloud/issues/60 |  | [Cloud team](https://github.com/orgs/meilisearch/teams/cloud-team) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-03-25 |  |
+|8| ProductHunt description | https://github.com/meilisearch/tmp-public-release-cloud/issues/52 | [@qdequele](https://github.com/qdequele) | [Cloud team](https://github.com/orgs/meilisearch/teams/cloud-team) | [Product Hunt](https://www.producthunt.com/) | 2022-04-04 |  |
+|9| Cloud public launch blog post | https://github.com/meilisearch/tmp-public-release-cloud/issues/60 | [@ferdi05](https://github.com/ferdi05) | [DevRel team](https://github.com/orgs/meilisearch/teams/devrel-team) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-04-08 |  |
+|10| Newsletter number 6 |  |  |  | [Meilisearch newsletter](https://us2.campaign-archive.com/home/?u=27870f7b71c908a8b359599fb&id=31f7b55f37) |  |  |
+|11|  |  |  |  |  |  |  |
+|12|  |  |  |  |  |  |  |
