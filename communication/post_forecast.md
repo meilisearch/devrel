@@ -9,7 +9,7 @@
 |6| ProductHunt description | https://github.com/meilisearch/tmp-public-release-cloud/issues/52 | [@qdequele](https://github.com/qdequele) | [Product Hunt](https://www.producthunt.com/) | 🚨 2022-04-07 | `not started` |
 |7| Cloud public launch blog post | https://github.com/meilisearch/tmp-public-release-cloud/issues/60 | [@ferdi05](https://github.com/ferdi05) | [Meilisearch blog](https://blog.meilisearch.com/) | 🚨 2022-04-11 | `not started` |
 |8| Newsletter number 6 |  | [@ferdi05](https://github.com/ferdi05) | [Meilisearch newsletter](https://us2.campaign-archive.com/home/?u=27870f7b71c908a8b359599fb&id=31f7b55f37) | 🚨 2022-05-23 | `not started` |
-|9| HR blog post | [Notion](https://www.notion.so/meilisearch/HR-blog-post-71af13281a554138b1043f283aaa7662) _(private link)_ | [Morgane Neff](https://meilisearch.notion.site/Morgane-Neff-ce9c8e7d86ab46a6bdd64b3164bbec25) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-03-29 | `expert review in progress` |
+|9| Our first steps to support the mental health of our team members | [Notion](https://www.notion.so/meilisearch/Our-first-steps-to-support-the-mental-health-of-our-team-members-c625ba59ff564da29e33864076fe11c3) _(private link)_ | [Morgane Neff](https://meilisearch.notion.site/Morgane-Neff-ce9c8e7d86ab46a6bdd64b3164bbec25) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-03-29 | `expert review in progress` |
 |10| Open source | [Google Docs](https://docs.google.com/document/d/189oourMhmzPrmP0wS9o_iC59sbRNFPChEtszS2YpWcQ/edit) _(private link)_| [@qdequele](https://github.com/qdequele) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-03-30 | `editorial review in progress` |
 |11|  |  |  |  |  |  | 
 |12|  |  |  |  |  |  | 
