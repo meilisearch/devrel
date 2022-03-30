@@ -11,5 +11,5 @@
 |8| Newsletter number 6 |  | [@ferdi05](https://github.com/ferdi05) | [Meilisearch newsletter](https://us2.campaign-archive.com/home/?u=27870f7b71c908a8b359599fb&id=31f7b55f37) | 🚨 2022-05-23 | `not started` |
 |9| Our first steps to support the mental health of our team members | [Notion](https://www.notion.so/meilisearch/Our-first-steps-to-support-the-mental-health-of-our-team-members-c625ba59ff564da29e33864076fe11c3) _(private link)_ | [Morgane Neff](https://meilisearch.notion.site/Morgane-Neff-ce9c8e7d86ab46a6bdd64b3164bbec25) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-03-29 | `expert review in progress` |
 |10| Open source | [Google Docs](https://docs.google.com/document/d/189oourMhmzPrmP0wS9o_iC59sbRNFPChEtszS2YpWcQ/edit) _(private link)_| [@qdequele](https://github.com/qdequele) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-03-30 | `editorial review in progress` |
-|11| Firebase guide |  | [@alallema](https://github.com/alallema) | [Meilisearch blog](https://blog.meilisearch.com/) (at least) |  | `not started` | 
+|11| Firebase guide | [Notion](https://www.notion.so/meilisearch/Firebase-guide-f26f200fd5944f7e8f55810b35ca1e54) _(private link)_ | [@alallema](https://github.com/alallema) | [Meilisearch blog](https://blog.meilisearch.com/) (at least) |  | `writing in progress` | 
 |12|  |  |  |  |  |  | 
