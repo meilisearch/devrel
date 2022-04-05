@@ -10,7 +10,7 @@
 | 5 | Cloud public launch blog post | https://github.com/meilisearch/tmp-public-release-cloud/issues/60 | [@ferdi05](https://github.com/ferdi05) | [Meilisearch blog](https://blog.meilisearch.com/) | 🚨 2022-04-11 | `not started` |
 | 6 | Newsletter number 6 |  | [@ferdi05](https://github.com/ferdi05) | [Meilisearch newsletter](https://us2.campaign-archive.com/home/?u=27870f7b71c908a8b359599fb&id=31f7b55f37) | 🚨 2022-05-23 | `not started` |
 | 7 | Open source | [Google Docs](https://docs.google.com/document/d/189oourMhmzPrmP0wS9o_iC59sbRNFPChEtszS2YpWcQ/edit) _(private link)_| [@qdequele](https://github.com/qdequele) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-03-30 | `editorial review in progress` |
-| 8 | Firebase guide | [Notion](https://www.notion.so/meilisearch/Firebase-guide-f26f200fd5944f7e8f55810b35ca1e54) _(private link)_ | [@alallema](https://github.com/alallema) | [Meilisearch blog](https://blog.meilisearch.com/) (at least) | 2022-03-12 | `expert review needed` | 
+| 8 | Firebase guide | [Notion](https://www.notion.so/meilisearch/Firebase-guide-f26f200fd5944f7e8f55810b35ca1e54) _(private link)_ | [@alallema](https://github.com/alallema) | [Meilisearch blog](https://blog.meilisearch.com/) (at least) | 2022-04-19 | `expert review needed` | 
 | 9 |  |  |  |  |  |  | 
 
 # Published
