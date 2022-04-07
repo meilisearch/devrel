@@ -3,15 +3,16 @@
 | Field | Topic/Title | Link | Author | Medium | ETA | Status |
 |---|---|---|---|---|---|---|
 | Field description | Topic of your post | Link to the post being written | Your name | Mediums where the post will be published | Tentative date for the publication | Status of the publication process |
-| 1 | Algolia Migration Guide | [Notion](https://www.notion.so/meilisearch/Migration-guide-from-Algolia-to-Meilisearch-26595bf49f9a4ca39d0ec1a57349e5a1) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch documentation](https://docs.meilisearch.com/) | 🚨 2022-04-11 | `writing in progress` |
-| 2 | ProductHunt description | https://github.com/meilisearch/tmp-public-release-cloud/issues/52 | [@qdequele](https://github.com/qdequele) | [Product Hunt](https://www.producthunt.com/) | 🚨 2022-04-18 | `not started` |
-| 3 | Cloud public launch blog post | https://github.com/meilisearch/tmp-public-release-cloud/issues/60 | [@ferdi05](https://github.com/ferdi05) | [Meilisearch blog](https://blog.meilisearch.com/) | 🚨 2022-04-18 | `not started` |
+| 1 | Algolia Migration Guide | [Notion](https://www.notion.so/meilisearch/Algolia-to-Meilisearch-migration-guide-2ced0574d10e46438e0fc998fededd12) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch documentation](https://docs.meilisearch.com/) | 🚨 2022-04-18 | `writing in progress` |
+| 2 | ProductHunt description | https://github.com/meilisearch/tmp-public-release-cloud/issues/52 | [@qdequele](https://github.com/qdequele) | [Product Hunt](https://www.producthunt.com/) | 🚨 2022-04-25 (TBC) | `not started` |
+| 3 | Cloud public launch blog post | https://github.com/meilisearch/tmp-public-release-cloud/issues/60 | [@ferdi05](https://github.com/ferdi05) | [Meilisearch blog](https://blog.meilisearch.com/) | 🚨 2022-04-25 (TBC) | `not started` |
 | 4 | v0.27 release blog post |  | [@ferdi05](https://github.com/ferdi05) | [Meilisearch blog](https://blog.meilisearch.com/) | 🚨 2022-05-09 | `not started` |
 | 5 | Tutorial on typo tolerance customization|  | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) | 🚨 2022-05-09 | `not started` |
 | 6 | Newsletter number 6 |  | [@ferdi05](https://github.com/ferdi05) | [Meilisearch newsletter](https://us2.campaign-archive.com/home/?u=27870f7b71c908a8b359599fb&id=31f7b55f37) | 🚨 2022-05-23 | `not started` |
-| 7 | Strapi integration tutorial |  | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/ | 2022-04-20 | `writing in progress` |
-| 8 | Open source | [Google Docs](https://docs.google.com/document/d/189oourMhmzPrmP0wS9o_iC59sbRNFPChEtszS2YpWcQ/edit) _(private link)_| [@qdequele](https://github.com/qdequele) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-03-30 | `editorial review in progress` |
-| 9 | Firebase guide | [Notion](https://www.notion.so/meilisearch/Firebase-guide-f26f200fd5944f7e8f55810b35ca1e54) _(private link)_ | [@alallema](https://github.com/alallema) | [Meilisearch blog](https://blog.meilisearch.com/) (at least) | 2022-04-19 | `expert review needed` | 
+| 7 | Strapi integration tutorial |  | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-04-20 | `writing in progress` |
+| 8 | Open source | [Google Docs](https://docs.google.com/document/d/189oourMhmzPrmP0wS9o_iC59sbRNFPChEtszS2YpWcQ/edit) _(private link)_| [@qdequele](https://github.com/qdequele) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-04-22 | `editorial review in progress` |
+| 9 | Firebase guide | [Notion](https://www.notion.so/meilisearch/Firebase-guide-f26f200fd5944f7e8f55810b35ca1e54) _(private link)_ | [@alallema](https://github.com/alallema) | [Meilisearch blog](https://blog.meilisearch.com/) (at least) | 2022-04-22 | `expert review needed` |
+| 10 | Cloud Get started guide | [Notion](https://www.notion.so/meilisearch/Getting-Started-with-Meilisearch-Cloud-3110211869ad43fd80f9603319b6ccba) _(private link)_ | [@oluademola](https://github.com/oluademola) | [Meilisearch Cloud website](https://cloud.meilisearch.com/) | 2022-04-25 | `writing in progress` |
 
 # Published
 
