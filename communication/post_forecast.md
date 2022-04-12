@@ -3,7 +3,7 @@
 | Field | Topic/Title | Link | Author | Medium | ETA | Status |
 |---|---|---|---|---|---|---|
 | Field description | Topic of your post | Link to the post being written | Your name | Mediums where the post will be published | Tentative date for the publication | Status of the publication process |
-| 1 | Algolia Migration Guide | [Notion](https://www.notion.so/meilisearch/Algolia-to-Meilisearch-migration-guide-2ced0574d10e46438e0fc998fededd12) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch documentation](https://docs.meilisearch.com/) | 🚨 2022-04-18 | `writing in progress` |
+| 1 | Algolia Migration Guide | [Notion](https://www.notion.so/meilisearch/Algolia-to-Meilisearch-migration-guide-2ced0574d10e46438e0fc998fededd12) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch documentation](https://docs.meilisearch.com/) | 🚨 2022-04-20 | `editorial review in progress` |
 | 2 | ProductHunt description | https://github.com/meilisearch/tmp-public-release-cloud/issues/52 | [@qdequele](https://github.com/qdequele) | [Product Hunt](https://www.producthunt.com/) | 🚨 2022-04-25 (TBC) | `not started` |
 | 3 | Cloud public launch blog post | https://github.com/meilisearch/tmp-public-release-cloud/issues/60 | [@ferdi05](https://github.com/ferdi05) | [Meilisearch blog](https://blog.meilisearch.com/) | 🚨 2022-04-25 (TBC) | `not started` |
 | 4 | v0.27 release blog post |  | [@ferdi05](https://github.com/ferdi05) | [Meilisearch blog](https://blog.meilisearch.com/) | 🚨 2022-05-09 | `not started` |
