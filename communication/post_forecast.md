@@ -1,5 +1,7 @@
 # Unpublished
 
+Status options: `not started`, `writing in progress`, `expert review needed`, `expert review in progress`, `editorial review needed`, `editorial review in progress`, `editorial review finished`, `ready for publication`, `published`.
+
 | Field | Topic/Title | Link | Author | Medium | ETA | Status |
 |---|---|---|---|---|---|---|
 | Field description | Topic of your post | Link to the post being written | Your name | Mediums where the post will be published | Tentative date for the publication | Status of the publication process |
