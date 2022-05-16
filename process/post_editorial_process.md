@@ -21,7 +21,7 @@ We'll follow the progress of a post from the idea to publication with [this tabl
 | 2 | The author writes the post. We advise the use of a [writing assistant](https://github.com/meilisearch/devrel/blob/main/process/blog_process.md#tools).| Change **Status** to `writing in progress` |  |
 | 3 | The author has finished the first draft of the post.<br>The post is ready for review by the expert committee or any other required feedback on the content (e.g., a team manager). | Change **Status** to `expert review needed` |  |
 | 4 | The expert committee is currently reviewing the post. The author may update the content accordingly in this stage and require other expert reviews. | Change **Status** to `expert review in progress` |  |
-| 5 | The author has a draft ready for editorial review by Meilisearch's documentation team and tag the Documentation team (@meilisearch/docs-team). | Change **Status** to `editorial review needed` |  |
+| 5 | The author has a draft ready for editorial review by Meilisearch's documentation team and tags the Documentation team (@meilisearch/docs-team). | Change **Status** to `editorial review needed` |  |
 | 6 | Meilisearch's documentation team is currently reviewing the post. |  | Change **Status** to `editorial review in progress` |
 | 7 | Meilisearch's documentation team has finished reviewing the post and notify the author. |  | Change **Status** to `editorial review finished` |
 | 8 | The author reviews the suggestions made by the proofreaders.<br>The author repeats steps 5 to 7 until the post is ready for publication. | Change **Status** to `ready for publication` |  |
