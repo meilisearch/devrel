@@ -13,6 +13,7 @@ Status options: `not started`, `writing in progress`, `expert review needed`, `e
 | Cloud Get started guide | [Notion](https://www.notion.so/meilisearch/Getting-Started-with-Meilisearch-Cloud-3110211869ad43fd80f9603319b6ccba) _(private link)_ | [@oluademola](https://github.com/oluademola) | [Meilisearch Cloud website](https://cloud.meilisearch.com/) | 2022-04-25 | `writing in progress` |
 | ProductHunt description | https://github.com/meilisearch/tmp-public-release-cloud/issues/52 | [@qdequele](https://github.com/qdequele) | [Product Hunt](https://www.producthunt.com/) | 2022-06-30 (TBC) | `not started` |
 | Cloud public launch blog post | https://github.com/meilisearch/tmp-public-release-cloud/issues/60 | [@ferdi05](https://github.com/ferdi05) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-06-30 (TBC) | `not started` |
+| E-commerce demo marketing blog post | [Notion](https://www.notion.so/meilisearch/Ecommerce-Demo-Tutorial-93212d48474a47519354d54b83d28a09) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-06-30 (TBC) | `not started` |
 
 # Published
 
