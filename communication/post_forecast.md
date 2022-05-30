@@ -28,6 +28,6 @@ Status options: `not started`, `writing in progress`, `expert review needed`, `e
 | 6 | [How to integrate a relevant search into Strapi v4 using Meilisearch](https://blog.meilisearch.com/strapi-v4-plugin-meilisearch/)| [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-04-25 |
 | 7 | [How open source drives our strategy](https://blog.meilisearch.com/how-open-source-drives-our-strategy/) | [@qdequele](https://github.com/qdequele) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-05-03 |
 | 8 | [What's new in v0.27](https://blog.meilisearch.com/whats-new-in-v0-27/) | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-05-09 |
-| 9 | [Migrating from Algolia to Meilisearch](https://docs.meilisearch.com/learn/getting_started/algolia_migration.html) | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch Docs](https://docs.meilisearch.com/) | 2022-05-25 |
+| 9 | [Migrating from Algolia to Meilisearch](https://docs.meilisearch.com/learn/getting_started/algolia_migration.html) | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch Documentation](https://docs.meilisearch.com/) | 2022-05-25 |
 | 10 | [Take control of Meilisearch's typo tolerance](https://blog.meilisearch.com/typo-tolerance/) | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-05-30 |
 
