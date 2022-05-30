@@ -5,7 +5,6 @@ Status options: `not started`, `writing in progress`, `expert review needed`, `e
 | Topic/Title | Link | Author | Medium | ETA | Status |
 |---|---|---|---|---|---|
 | Topic of your post | Link to the post being written | Your name | Mediums where the post will be published | Tentative date for the publication | Status of the publication process |
-| Algolia Migration Guide | [Notion](https://www.notion.so/meilisearch/Algolia-to-Meilisearch-migration-guide-2ced0574d10e46438e0fc998fededd12) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch documentation](https://docs.meilisearch.com/) | 🚨 2022-05-09 | `editorial review finished` |
 | HR blog post on our offsite | [Google Docs](https://docs.google.com/document/d/1TskVAHSsTBUloC72nakrxTs-qTGTUJHTkuZEszBvwUo/edit?usp=sharing) | [Laurène Gibaud](https://meilisearch.notion.site/Laur-ne-Gibaud-4010db44b2b04ff098010f069b6ca8e8) | [Meilisearch blog](https://blog.meilisearch.com/) | 🚨 2022-05-26 | `editorial review in progress` |
 | Newsletter number 6 | [Notion](https://www.notion.so/meilisearch/Private-links-9633b8a54d1e4681a23310ae483b4f91#d9ab6b98d6f94517bbabfd5c06f5622c) _(private link)_ | [@ferdi05](https://github.com/ferdi05) | [Meilisearch newsletter](https://us2.campaign-archive.com/home/?u=27870f7b71c908a8b359599fb&id=31f7b55f37) | 🚨 2022-05-30 | `editorial review finished` |
 | Firebase guide | [Notion](https://www.notion.so/meilisearch/Firebase-guide-f26f200fd5944f7e8f55810b35ca1e54) _(private link)_ | [@alallema](https://github.com/alallema) | [Meilisearch blog](https://blog.meilisearch.com/) (at least) | 2022-06-02 | `editorial review needed` |
@@ -27,5 +26,6 @@ Status options: `not started`, `writing in progress`, `expert review needed`, `e
 | 6 | [How to integrate a relevant search into Strapi v4 using Meilisearch](https://blog.meilisearch.com/strapi-v4-plugin-meilisearch/)| [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-04-25 |
 | 7 | [How open source drives our strategy](https://blog.meilisearch.com/how-open-source-drives-our-strategy/) | [@qdequele](https://github.com/qdequele) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-05-03 |
 | 8 | [What's new in v0.27](https://blog.meilisearch.com/whats-new-in-v0-27/) | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-05-09 |
-| 9 | [Take control of Meilisearch's typo tolerance](https://blog.meilisearch.com/typo-tolerance/) | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-05-30 |
+| 9 | [Migrating from Algolia to Meilisearch](https://docs.meilisearch.com/learn/getting_started/algolia_migration.html) | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch Docs](https://docs.meilisearch.com/) | 2022-05-25 |
+| 10 | [Take control of Meilisearch's typo tolerance](https://blog.meilisearch.com/typo-tolerance/) | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-05-30 |
 
