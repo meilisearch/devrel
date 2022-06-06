@@ -1,4 +1,4 @@
-# Blog post process
+# Posts editorial process
 
 ## Context
 
