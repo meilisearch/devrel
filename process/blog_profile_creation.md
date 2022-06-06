@@ -2,7 +2,7 @@
 
 ## Context
 Ghost, our blogging platform, and our current blog theme automatically create pages for authors, and display author profile pictures on the blog post page and the homepage.
-Every blog author has to fill in their description. Our audience will have a better idea of who the folks working at Meilisear are. We don't want to be another corporation with random workers.
+Every blog author has to fill in their description. Our audience will have a better idea of who the folks working at Meilisearch are. We don't want to be another corporation with random workers.
 
 ## Process
 - Before publishing an article, you need access to Ghost.
