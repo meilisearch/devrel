@@ -5,13 +5,12 @@ Status options: `not started`, `writing in progress`, `expert review needed`, `e
 | Topic/Title | Link | Author | Medium | ETA | Status |
 |---|---|---|---|---|---|
 | Topic of your post | Link to the post being written | Your name | Mediums where the post will be published | Tentative date for the publication | Status of the publication process |
-| Firebase guide | [Notion](https://www.notion.so/meilisearch/Firebase-guide-f26f200fd5944f7e8f55810b35ca1e54) _(private link)_ | [@alallema](https://github.com/alallema) | [Meilisearch blog](https://blog.meilisearch.com/) (at least) | 2022-06-06 | `editorial review finished` |
-| Cloud Get started guide | [Notion](https://www.notion.so/meilisearch/Getting-Started-with-Meilisearch-Cloud-3110211869ad43fd80f9603319b6ccba) _(private link)_ | [@oluademola](https://github.com/oluademola) | [Meilisearch Cloud website](https://cloud.meilisearch.com/) | 2022-06-15 | `writing in progress` |
-| ProductHunt description | https://github.com/meilisearch/tmp-public-release-cloud/issues/52 | [@qdequele](https://github.com/qdequele) | [Product Hunt](https://www.producthunt.com/) | 2022-06-30 (TBC) | `not started` |
-| Cloud public launch blog post | https://github.com/meilisearch/tmp-public-release-cloud/issues/60 | [@ferdi05](https://github.com/ferdi05) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-06-30 (TBC) | `not started` |
-| E-commerce demo marketing blog post | [Notion](https://www.notion.so/meilisearch/Ecommerce-Demo-Tutorial-93212d48474a47519354d54b83d28a09) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-06-30 (TBC) | `writing in progress` |
+| Firebase guide | [Notion](https://www.notion.so/meilisearch/Firebase-guide-f26f200fd5944f7e8f55810b35ca1e54) _(private link)_ | [@alallema](https://github.com/alallema) | [Meilisearch blog](https://blog.meilisearch.com/) (at least) | 2022-06-15 | `editorial review finished` |
+| Cloud Get started guide | [Notion](https://www.notion.so/meilisearch/Getting-Started-with-Meilisearch-Cloud-3110211869ad43fd80f9603319b6ccba) _(private link)_ | [@oluademola](https://github.com/oluademola) | [Meilisearch Cloud website](https://cloud.meilisearch.com/) | 2022-06-27 | `writing in progress` |
+| E-commerce demo blog post | [Notion](https://www.notion.so/meilisearch/Ecommerce-Demo-Tutorial-93212d48474a47519354d54b83d28a09) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-06-30 (TBC) | `writing in progress` |
 | Elasticsearch Migration Guide | [Notion](https://www.notion.so/meilisearch/Elasticsearch-migration-guide-45607a91cdcb4d08b19319fb7799e49f) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch documentation](https://docs.meilisearch.com/) | 2022-07-15 (TBC) | `writing in progress` |
-
+| ProductHunt description | https://github.com/meilisearch/tmp-public-release-cloud/issues/52 | [@qdequele](https://github.com/qdequele) | [Product Hunt](https://www.producthunt.com/) | 2022-08-30 (TBC) | `not started` |
+| Cloud public launch blog post | https://github.com/meilisearch/tmp-public-release-cloud/issues/60 | [@ferdi05](https://github.com/ferdi05) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-08-30 (TBC) | `not started` |
 
 # Published
 
