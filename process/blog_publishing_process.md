@@ -37,14 +37,14 @@ Once an article has been reviewed, authors need to follow the steps below to mak
 <img src="https://user-images.githubusercontent.com/48251481/172434356-f0b28d79-cf09-4af7-a4ec-0e78b137b338.png" width="50%"> 
 
 10. Open the `Post settings` by clicking on the icon next to the `Save` button at the top right corner of the page:
-    - Add the Post URL. Make sure it complies with the [URL guidelines](https://github.com/meilisearch/devrel/issues/454). 
-    - Add the excerpt of the post: it is limited to 300 characters, but it is better to make it shorter. You can check the [excerpt guidelines](https://github.com/meilisearch/devrel/issues/453).
+    - Add the Post URL. Make sure it complies with the [URL guidelines](https://github.com/meilisearch/devrel/issues/454) 
+    - Add the excerpt of the post: it is limited to 300 characters, but it is better to make it shorter. You can check the [excerpt guidelines](https://github.com/meilisearch/devrel/issues/453)
     
     <img src="https://user-images.githubusercontent.com/48251481/172436396-a3829311-92b5-49cf-bae5-6a777603a24c.png" width="25%">
 
-11. Check the `Meta data` and the `Twitter card` and adapt the titles and descriptions if needed (avoid cropped text).
+11. Check the `Meta data` and the `Twitter card` and adapt the titles and descriptions if needed (avoid cropped text)
    <img src="https://user-images.githubusercontent.com/48251481/172437697-7ad3e248-6021-48a2-ba37-c3bf2f085b9f.png" width="33%">
 
 💡 To see what your post will look like once published, you can click on `Preview` at the top right corner of the Ghost editor. By clicking on the Twitter icon you'll also have a preview of how it will look like when shared on social media or when found on Google. 
 
-12. Change the status of the blog post to `ready for publication` in the [post forecast table](https://github.com/meilisearch/devrel/blob/main/communication/post_forecast.md)
+12. Create a PR to change the status of the blog post to `ready for publication` in the [post forecast table](https://github.com/meilisearch/devrel/blob/main/communication/post_forecast.md) and add the [desired tags](https://github.com/meilisearch/devrel/issues/466) in the PR comment
