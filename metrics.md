@@ -16,7 +16,7 @@ This means one master KPI for _Community_, for _Content_, and for _Code/Product_
 ## North star metric
 | ID | KPI desc | Data | Chart|
 |---|---|---|---|
-| 0 | Monthly active user | From telemetry data | [Amplitude](https://analytics.amplitude.com/meili/chart/vo5iolx) _(private link)_  |
+| 0 | Monthly active user | From telemetry data | [Amplitude](https://analytics.amplitude.com/meili/chart/jpv2ltc) _(private link)_  |
 
 ## Community
 The main KPI is **community health**. This can be measured through community members' activity, the size of the community, the number of discussions... It's hard to define the precise metric to track. Fortunately, the [Orbit model](https://github.com/orbit-love/orbit-model#orbit-kpis) provides the right tools: **the size of each Orbit**. 
