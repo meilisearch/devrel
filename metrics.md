@@ -51,7 +51,7 @@ In the meantime, we can rely on other metrics.
 | 7 | Number of blog posts created and audience | Blog posts currently on [Notion](https://www.notion.so/meilisearch/fe5f4cff1224490ebc489fe50a503c58?v=f68dc3a1481740628550e2771b443862) (source: [Meilisearch blog](https://blog.meilisearch.com)) - audience source: [Fathom](https://app.usefathom.com/#/?filters=%5B%5D&range=this_year&site=24647)| [chart blog posts creation](https://docs.google.com/spreadsheets/d/e/2PACX-1vS_8gJhoI3jCcLaw_xhOrkaNBp98VZ-z_vWUph6ytSbip_4hkDncPGsjtnRwLIUjYzIy8sEUsaSV3-b/pubchart?oid=649259286&format=interactive) - [chart audience](https://analytics.amplitude.com/meili/chart/am88dke) _(private links)_ |
 | 8 | Number of demos created| Currently on [Notion](https://www.notion.so/meilisearch/fe5f4cff1224490ebc489fe50a503c58?v=aaaa57f80b3a4ac58b381b7151f32436) _(private link)_ | TODO |
 | 9 | Number of use cases | Currently on [Notion](https://www.notion.so/meilisearch/fe5f4cff1224490ebc489fe50a503c58?v=aaaa57f80b3a4ac58b381b7151f32436) _(private link)_ | TODO |
-| 10 | Domain authority| from [Moz](https://moz.com/domain-analysis?site=meilisearch.com) | [Notion](https://www.notion.so/meilisearch/fe5f4cff1224490ebc489fe50a503c58?v=6bd6ebfb23684e52bb84a2c9baa9c0b5) _(private link)_   |
+| 10 | Domain authority| Currently on [Notion](https://www.notion.so/meilisearch/fe5f4cff1224490ebc489fe50a503c58?v=6bd6ebfb23684e52bb84a2c9baa9c0b5)  (source: [Moz](https://moz.com/domain-analysis?site=meilisearch.com)) _(private links)_ | TODO |
 
 
 ## Code/Product
