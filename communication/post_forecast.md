@@ -5,6 +5,7 @@ Status options: `not started`, `writing in progress`, `expert review needed`, `e
 | Topic/Title | Link | Author | Medium | ETA | Status |
 |---|---|---|---|---|---|
 | Topic of your post | Link to the post being written | Your name | Mediums where the post will be published | Tentative date for the publication | Status of the publication process |
+| v0.28 release blog post | [Notion](https://www.notion.so/meilisearch/What-s-new-in-v0-28-80512ba3980d436b9872cbbe76d4ed20) _(private link)_ | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-07-11 | `expert review needed` |
 | E-commerce demo blog post | [Notion](https://www.notion.so/meilisearch/Ecommerce-Demo-Tutorial-93212d48474a47519354d54b83d28a09) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-07-11 (TBC) | `writing in progress` |
 | Cloud Get started guide | [Notion](https://www.notion.so/meilisearch/Getting-Started-with-Meilisearch-Cloud-3110211869ad43fd80f9603319b6ccba) _(private link)_ | [@oluademola](https://github.com/oluademola) | [Meilisearch Cloud website](https://cloud.meilisearch.com/) | 2022-07-15 | `writing in progress` |
 | Elasticsearch Migration Guide | [Notion](https://www.notion.so/meilisearch/Elasticsearch-migration-guide-45607a91cdcb4d08b19319fb7799e49f) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch documentation](https://docs.meilisearch.com/) | 2022-07-15 (TBC) | `writing in progress` |
