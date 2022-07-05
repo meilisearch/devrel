@@ -55,15 +55,15 @@ In the meantime, we can rely on other metrics.
 
 
 ## Code/Product
-The main KPI is the **number of MeiliSearch instance launches** _(edit: previously I preferred downloads, but launches seem more relevant)_. Distribution is critical, and this measures if it's done right.
+The main KPI is the **number of Meilisearch instance launches** _(edit: previously I preferred downloads, but launches seem more relevant)_. Distribution is critical, and this measures if it's done right.
 
 **Code/product dashboard [on Amplitude](https://analytics.amplitude.com/meili/dashboard/s343sbg) _(private link)_**
 
 | ID | KPI desc | Data | Chart |
 |---|---|---|---|
-| 0 | Number of MeiliSearch instance launches | from telemetry data | [Amplitude](https://analytics.amplitude.com/meili/chart/4n55ed9) _(private link)_  |
+| 0 | Number of Meilisearch instance launches | from telemetry data | [Amplitude](https://analytics.amplitude.com/meili/chart/4n55ed9) _(private link)_  |
 | 1 | Number of contributors| from [Orbit](https://app.orbit.love/meili/members?affiliation=member&activity_type=pull_requests%3Amerged&relative=last_30_days&rt=1)  _(private link)_| asked in [#327](https://github.com/meilisearch/devrel/issues/327#issuecomment-1105458945)  |
 | 2 | Number of contributions | from Orbit | [Amplitude](https://analytics.amplitude.com/meili/chart/zg5terf) _(private link)_  |
 | 3 | Number of GitHub Stars | from Github | [Amplitude](https://analytics.amplitude.com/meili/chart/kprm4fy) _(private link)_ |
 | 4 | Number of integration users | from telemetry data | [Amplitude](https://analytics.amplitude.com/meili/chart/t550fe7) _(private link)_  |
-| 5 | NPS/[Sean Ellis question](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit#anchoring-around-a-metric-a-leading-indicator-for-productmarket-fit) | not done yet at MeilIsearch |   |
+| 5 | NPS/[Sean Ellis question](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit#anchoring-around-a-metric-a-leading-indicator-for-productmarket-fit) | not done yet at Meilisearch |   |
