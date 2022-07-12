@@ -5,7 +5,6 @@ Status options: `not started`, `writing in progress`, `expert review needed`, `e
 | Topic/Title | Link | Author | Medium | ETA | Status |
 |---|---|---|---|---|---|
 | Topic of your post | Link to the post being written | Your name | Mediums where the post will be published | Tentative date for the publication | Status of the publication process |
-| v0.28 release blog post | [Notion](https://www.notion.so/meilisearch/What-s-new-in-v0-28-80512ba3980d436b9872cbbe76d4ed20) _(private link)_ | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-07-11 | `expert review needed` |
 | E-commerce demo blog post | [Notion](https://www.notion.so/meilisearch/Ecommerce-Demo-Tutorial-93212d48474a47519354d54b83d28a09) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-07-11 (TBC) | `writing in progress` |
 | Cloud Get started guide | [Notion](https://www.notion.so/meilisearch/Getting-Started-with-Meilisearch-Cloud-3110211869ad43fd80f9603319b6ccba) _(private link)_ | [@oluademola](https://github.com/oluademola) | [Meilisearch Cloud website](https://cloud.meilisearch.com/) | 2022-07-15 | `writing in progress` |
 | Elasticsearch Migration Guide | [Notion](https://www.notion.so/meilisearch/Elasticsearch-migration-guide-45607a91cdcb4d08b19319fb7799e49f) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch documentation](https://docs.meilisearch.com/) | 2022-07-15 (TBC) | `writing in progress` |
@@ -33,3 +32,4 @@ Status options: `not started`, `writing in progress`, `expert review needed`, `e
 | 12 | [Newsletter number 6](https://mailchi.mp/meilisearch/newsletter-6?e=241dde0770) | [@ferdi05](https://github.com/ferdi05) | [Meilisearch newsletter](https://us2.campaign-archive.com/home/?u=27870f7b71c908a8b359599fb&id=31f7b55f37) | 2022-05-31 |
 | 13 | [Instant Meilisearch: recipe to a great front-end search](https://blog.meilisearch.com/instant-meilisearch/) | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-06-13 |
 | 14 | [Create a search interface with Firebase and Meilisearch](https://blog.meilisearch.com/firebase-meilisearch/) | [@alallema](https://github.com/alallema) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-06-29 |
+| 15 | [What's new in v0.28](https://blog.meilisearch.com/whats-new-in-v0-28/)| [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-07-11 | 
