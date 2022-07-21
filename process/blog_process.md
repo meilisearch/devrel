@@ -10,6 +10,7 @@ This file aims to gather every process, guide and ressources to publish blog pos
 ## Processes
 - [Editorial process to get a post ready for publication](https://github.com/meilisearch/devrel/blob/main/process/posts_editorial_process.md)
 - [Creating your author profile on our blogging platform](https://github.com/meilisearch/devrel/blob/main/process/blog_profile_creation.md)
+- [Publishing a post on our blogging platform](https://github.com/meilisearch/devrel/blob/main/process/blog_publishing_process.md)
 
 ## Tools
 - Writing assistant: [Grammarly](https://www.grammarly.com/) (Meilisearch team members have an access or accounts on Grammarly)
