@@ -5,14 +5,16 @@ Status options: `not started`, `writing in progress`, `expert review needed`, `e
 | Topic/Title | Link | Author | Medium | ETA | Status |
 |---|---|---|---|---|---|
 | Topic of your post | Link to the post being written | Your name | Mediums where the post will be published | Tentative date for the publication | Status of the publication process |
-| E-commerce demo blog post | [Notion](https://www.notion.so/meilisearch/Ecommerce-Demo-Tutorial-93212d48474a47519354d54b83d28a09) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-07-11 (TBC) | `writing in progress` |
-| Cloud Get started guide | [Notion](https://www.notion.so/meilisearch/Getting-Started-with-Meilisearch-Cloud-3110211869ad43fd80f9603319b6ccba) _(private link)_ | [@oluademola](https://github.com/oluademola) | [Meilisearch Cloud website](https://cloud.meilisearch.com/) | 2022-07-15 | `writing in progress` |
-| Elasticsearch Migration Guide | [Notion](https://www.notion.so/meilisearch/Elasticsearch-migration-guide-45607a91cdcb4d08b19319fb7799e49f) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch documentation](https://docs.meilisearch.com/) | 2022-07-15 (TBC) | `writing in progress` |
-| A content piece about connectors with MySQL and PostgreSQL databases (possibly using Airbyte or any nocode/low-code solution) |  | TBD | TBD | 2022-08-15 (TBC) | `not started` |
-| A tutorial on Meilisearch + Docker | | TBD | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-08-22 (TBC) | `not started` |
+| Newsletter number 7 | WIP | [@ferdi05](https://github.com/ferdi05) | Meilisearch newsletter | 🚨 2022-07-28 | `writing in progress` |
+| How 42 school had an impact on our culture | WIP | [Laurène Gibaud](https://meilisearch.notion.site/Laur-ne-Gibaud-4010db44b2b04ff098010f069b6ca8e8) | [Meilisearch blog](https://blog.meilisearch.com/) | 🚨 2022-07-28 | `writing in progress` |
+| E-commerce demo blog post | [Notion](https://www.notion.so/meilisearch/Ecommerce-Demo-Tutorial-93212d48474a47519354d54b83d28a09) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-08-11 (TBC) | `writing in progress` |
+| Cloud Get started guide | [Notion](https://www.notion.so/meilisearch/Getting-Started-with-Meilisearch-Cloud-3110211869ad43fd80f9603319b6ccba) _(private link)_ | [@oluademola](https://github.com/oluademola) | [Meilisearch Cloud website](https://cloud.meilisearch.com/) | 2022-08-11 | `writing in progress` |
 | ProductHunt description | https://github.com/meilisearch/tmp-public-release-cloud/issues/52 | [@qdequele](https://github.com/qdequele) | [Product Hunt](https://www.producthunt.com/) | 2022-08-30 (TBC) | `not started` |
 | ProductHunt description | https://github.com/meilisearch/tmp-public-release-cloud/issues/52 | [@qdequele](https://github.com/qdequele) | [Product Hunt](https://www.producthunt.com/) | 2022-08-30 (TBC) | `not started` |
 | Cloud public launch blog post | https://github.com/meilisearch/tmp-public-release-cloud/issues/60 | [@ferdi05](https://github.com/ferdi05) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-08-30 (TBC) | `not started` |
+| Elasticsearch Migration Guide | [Notion](https://www.notion.so/meilisearch/Elasticsearch-migration-guide-45607a91cdcb4d08b19319fb7799e49f) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch documentation](https://docs.meilisearch.com/) | 2022-09-15 (TBC) | `writing in progress` |
+| A content piece about connectors with MySQL and PostgreSQL databases (possibly using Airbyte or any nocode/low-code solution) |  | TBD | TBD | 2022-09-15 (TBC) | `not started` |
+| A tutorial on Meilisearch + Docker | | TBD | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-09-15 (TBC) | `not started` |
 
 # Published
 
