@@ -5,8 +5,8 @@ Status options: `not started`, `writing in progress`, `expert review needed`, `e
 | Topic/Title | Link | Author | Medium | ETA | Status |
 |---|---|---|---|---|---|
 | Topic of your post | Link to the post being written | Your name | Mediums where the post will be published | Tentative date for the publication | Status of the publication process |
-| Newsletter number 7 | WIP | [@ferdi05](https://github.com/ferdi05) | Meilisearch newsletter | 🚨 2022-07-28 | `writing in progress` |
-| How 42 school had an impact on our culture | WIP | [Laurène Gibaud](https://meilisearch.notion.site/Laur-ne-Gibaud-4010db44b2b04ff098010f069b6ca8e8) | [Meilisearch blog](https://blog.meilisearch.com/) | 🚨 2022-07-28 | `writing in progress` |
+| Newsletter number 7 |[ Notion](https://www.notion.so/meilisearch/Private-links-9633b8a54d1e4681a23310ae483b4f91) _(private link)_ | [@ferdi05](https://github.com/ferdi05) | Meilisearch newsletter | 🚨 2022-07-28 | `editorial review needed` |
+| How 42 school had an impact on our culture | [Google doc](https://docs.google.com/document/d/12mVrkYJFiLmLaktfF598Oik8kSisTBwahIHJzZhones/edit) _(private link)_ | [Laurène Gibaud](https://meilisearch.notion.site/Laur-ne-Gibaud-4010db44b2b04ff098010f069b6ca8e8) | [Meilisearch blog](https://blog.meilisearch.com/) | 🚨 2022-07-28 | `editorial review in progress` |
 | E-commerce demo blog post | [Notion](https://www.notion.so/meilisearch/Ecommerce-Demo-Tutorial-93212d48474a47519354d54b83d28a09) _(private link)_ | [@shivaylamba](https://github.com/shivaylamba) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-08-11 (TBC) | `writing in progress` |
 | Cloud Get started guide | [Notion](https://www.notion.so/meilisearch/Getting-Started-with-Meilisearch-Cloud-3110211869ad43fd80f9603319b6ccba) _(private link)_ | [@oluademola](https://github.com/oluademola) | [Meilisearch Cloud website](https://cloud.meilisearch.com/) | 2022-08-11 | `writing in progress` |
 | ProductHunt description | https://github.com/meilisearch/tmp-public-release-cloud/issues/52 | [@qdequele](https://github.com/qdequele) | [Product Hunt](https://www.producthunt.com/) | 2022-08-30 (TBC) | `not started` |
