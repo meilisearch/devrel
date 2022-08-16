@@ -52,11 +52,10 @@ Once an article has been reviewed, authors need to follow the steps below to mak
 ## Post-publication corrections
 If you realize you need to make corrections after the post has been published, please follow the steps described below:
 1. Log in to Ghost with the user editor (bonjour@meilisearch). You can find the credentials on 1Password.
+⚠️ If you don't have access to 1Password, ask a member of the Developer Relations team to make the modifications for you. 
 2. In the left-hand menu, click on Published (under Posts)
 3. Find the post you need to correct (if it was published recently, it should be on the top of the list)
 4. Make the necessary modifications
 5. Click on the `Update` button on the top right corner of the page
 6. Go back by clicking the `< Posts` button located on the top left corner of the page
 7. Sign out
-
-⚠️ If you don't have access to 1Password, ask a member of the Developer Relations team to make the modifications for you. 
