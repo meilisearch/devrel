@@ -5,6 +5,7 @@ Status options: `not started`, `writing in progress`, `expert review needed`, `e
 | Topic/Title | Link | Author | Medium | ETA | Status |
 |---|---|---|---|---|---|
 | Topic of your post | Link to the post being written | Your name | Mediums where the post will be published | Tentative date for the publication | Status of the publication process |
+|How the Meilisearch Integrations team used Docker to increase productivity!| [Notion](https://www.notion.so/meilisearch/How-the-Meilisearch-Integrations-team-used-Docker-to-increase-productivity-6b0857b5c2594be1a026d9f242bdf3d0) _(private link)_  | [@brunoocasali](https://github.com/brunoocasali) | [Meilisearch blog](https://blog.meilisearch.com/) |---| `writing in progress` |
 | ProductHunt description | https://github.com/meilisearch/tmp-public-release-cloud/issues/52 | [@qdequele](https://github.com/qdequele) | [Product Hunt](https://www.producthunt.com/) | 2022-09-15 (TBC) | `not started` |
 | ProductHunt description | https://github.com/meilisearch/tmp-public-release-cloud/issues/52 | [@qdequele](https://github.com/qdequele) | [Product Hunt](https://www.producthunt.com/) | 2022-09-15 (TBC) | `not started` |
 | A content piece about connectors with MySQL and PostgreSQL databases (possibly using Airbyte or any nocode/low-code solution) |  | TBD | TBD | 2022-09-15 (TBC) | `not started` |
