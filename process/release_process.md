@@ -7,7 +7,7 @@ Those are the steps we need to take every time we release a new version of Meili
 - Write a blog post on the main changes introduced by the new version. 
     - [Release blog post template](https://www.notion.so/Release-blog-post-template-d3e2f64e30d145218d74b7be8267a8ef)
     - [Blog process](https://github.com/meilisearch/devrel/blob/main/process/blog_process.md)
-- If the new release introduces a new feature that can be demoed, create a demo to highlight it. Demos should respect the [Meilisearch Design System](https://www.figma.com/file/XXmUvsZzfZBKt1i2v12wf4/Design-System?node-id=1504%3A282) (_private link_), the following ressources have been created for this purpose:
+- If the new release introduces a new feature that can be demoed, create a demo to highlight it. Demos should respect the Meilisearch Design System, the following ressources have been created for this purpose:
     - [Meilisearch demos CSS theme](https://github.com/meilisearch/demos/tree/main/process/css-theme) 
     - [Guide to design a demo](https://www.figma.com/file/YUqMlOmApYd0D2aitPyDce/Guide-to-design-a-demo) (_private link_) 
 
