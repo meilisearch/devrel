@@ -5,6 +5,7 @@ Status options: `not started`, `writing in progress`, `expert review needed`, `e
 | Topic/Title | Link | Author | Medium | ETA | Status |
 |---|---|---|---|---|---|
 | Topic of your post | Link to the post being written | Your name | Mediums where the post will be published | Tentative date for the publication | Status of the publication process |
+| Interview with Bruno | [Notion] (https://www.notion.so/meilisearch/Interview-Bruno-Hacktoberfest-4f8e77c3b45c4d9483bd2da7883a3c63) _(private link)_  | [@Luna-meili](https://github.com/Luna-meili)| 2022-10-17  | `editorial review needed`|
 | Blog post on Hacktoberfest | [Notion](https://www.notion.so/meilisearch/Luna-s-Hacktoberfest-2022-6cd1509802984122ab74745f637b694f) _(private link)_  | [@Luna-meili](https://github.com/Luna-meili) | [Meilisearch blog](https://blog.meilisearch.com/) |🚨 2022-09-29| `editorial review needed` |
 |What's new in v0.29| [Notion](https://www.notion.so/meilisearch/What-s-new-in-v0-29-1ae228af2fd84bbba7d58c2b61ad9235) _(private link)_ | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) |🚨 2022-10-03| `ready for publication` |
 |v0.29 demo blog post| [Notion](https://www.notion.so/meilisearch/Matching-strategy-0d970373095647f1936939d9a21512d9) _(private link)_  | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) |🚨 2022-10-03| `editorial review finishsed` |
