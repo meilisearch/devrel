@@ -5,6 +5,7 @@ Status options: `not started`, `writing in progress`, `expert review needed`, `e
 | Topic/Title | Link | Author | Medium | ETA | Status |
 |---|---|---|---|---|---|
 | Topic of your post | Link to the post being written | Your name | Mediums where the post will be published | Tentative date for the publication | Status of the publication process |
+| Salaries at Meilisearch | [Notion](https://www.notion.so/meilisearch/Blog-article-Salaries-at-Meilisearch-347266420da840d6bc61b1938587950b) _(private link)_ | [@morganeff](https://github.com/morganeff) | [Meilisearch blog](https://blog.meilisearch.com/) |🚨 2022-09-13| `expert review needed` |
 | Hacktoberfest guidelines | [GitHub](https://github.com/meilisearch/.github/pull/12) | [@Luna-meili](https://github.com/Luna-meili) | [GitHub organisation](https://github.com/meilisearch) |🚨 2022-09-29| `editorial review finished` |
 | Hacktoberfest blog post | [Ghost preview](https://blog.meilisearch.com/p/c6ec7959-c877-452f-980e-21c734b6f0da/) _(private link)_ | [@Luna-meili](https://github.com/Luna-meili) | [Meilisearch blog](https://blog.meilisearch.com/) |🚨 2022-09-29| `ready for publication` |
 |What's new in v0.29| [Notion](https://www.notion.so/meilisearch/What-s-new-in-v0-29-1ae228af2fd84bbba7d58c2b61ad9235) _(private link)_ | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) |🚨 2022-10-03| `ready for publication` |
