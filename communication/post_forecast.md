@@ -6,6 +6,7 @@ Status options: `not started`, `writing in progress`, `expert review needed`, `e
 |---|---|---|---|---|---|
 | Topic of your post | Link to the post being written | Your name | Mediums where the post will be published | Tentative date for the publication | Status of the publication process |
 | Cloud Pricing and Plan FAQ | [Notion](https://www.notion.so/meilisearch/Pricing-and-Plan-FAQ-a5e5e24364bb41979724815c808b7887) _(private link)_ | [@oluademola](https://github.com/oluademola) | [Meilisearch Cloud website](https://cloud.meilisearch.com/) |🚨 2022-10-10 | `editorial review in progress` |
+| Salaries at Meilisearch | [Notion](https://www.notion.so/meilisearch/Blog-article-Salaries-at-Meilisearch-347266420da840d6bc61b1938587950b) _(private link)_ | [@morganeff](https://github.com/morganeff) | [Meilisearch blog](https://blog.meilisearch.com/) |🚨 2022-10-13| `editorial review needed` |
 | A content piece about connectors with MySQL and PostgreSQL databases (possibly using Airbyte or any nocode/low-code solution) |  | TBD | TBD | 2022-09-26 (TBC) | `not started` |
 | Post update: How to implement Instant Search within 5 minutes in your React App!| [Ghost preview](https://blog.meilisearch.com/p/9c11f742-041f-4d39-b955-c6e2d6ef1683/) | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-10-06 | `writing in progress` |
 | ProductHunt description | https://github.com/meilisearch/tmp-public-release-cloud/issues/52 | [@qdequele](https://github.com/qdequele) | [Product Hunt](https://www.producthunt.com/) | 2022-10-10 (TBC) | `not started` |
@@ -43,5 +44,3 @@ Status options: `not started`, `writing in progress`, `expert review needed`, `e
 | 20 | [Meilisearch returns for Hacktoberfest 2022!](https://blog.meilisearch.com/contribute-hacktoberfest-2022/) | [@Luna-Meili](https://github.com/Luna-Meili) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-09-27 |
 | 21 | [What's new in v0.29](https://blog.meilisearch.com/whats-new-in-v0-29/) | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-10-03 |
 | 22 | [Are you returning the search results your users want?](https://blog.meilisearch.com/matching-strategy/) | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-10-04 |
-
-
