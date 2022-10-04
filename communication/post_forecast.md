@@ -5,8 +5,6 @@ Status options: `not started`, `writing in progress`, `expert review needed`, `e
 | Topic/Title | Link | Author | Medium | ETA | Status |
 |---|---|---|---|---|---|
 | Topic of your post | Link to the post being written | Your name | Mediums where the post will be published | Tentative date for the publication | Status of the publication process |
-|What's new in v0.29| [Notion](https://www.notion.so/meilisearch/What-s-new-in-v0-29-1ae228af2fd84bbba7d58c2b61ad9235) _(private link)_ | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) |🚨 2022-10-03| `ready for publication` |
-|v0.29 demo blog post| [Notion](https://www.notion.so/meilisearch/Matching-strategy-0d970373095647f1936939d9a21512d9) _(private link)_  | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) |🚨 2022-10-03| `ready for publication` |
 | Cloud Pricing and Plan FAQ | [Notion](https://www.notion.so/meilisearch/Pricing-and-Plan-FAQ-a5e5e24364bb41979724815c808b7887) _(private link)_ | [@oluademola](https://github.com/oluademola) | [Meilisearch Cloud website](https://cloud.meilisearch.com/) |🚨 2022-10-10 | `editorial review in progress` |
 | A content piece about connectors with MySQL and PostgreSQL databases (possibly using Airbyte or any nocode/low-code solution) |  | TBD | TBD | 2022-09-26 (TBC) | `not started` |
 | Post update: How to implement Instant Search within 5 minutes in your React App!| [Ghost preview](https://blog.meilisearch.com/p/9c11f742-041f-4d39-b955-c6e2d6ef1683/) | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-10-06 | `writing in progress` |
@@ -43,4 +41,7 @@ Status options: `not started`, `writing in progress`, `expert review needed`, `e
 | 18 | [Meilisearch Rails + React](https://blog.meilisearch.com/how-to-integrate-an-extremely-fast-and-relevant-search-into-your-rails-app-using-meilisearch-and-react/) | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-08-22 |
 | 19 | [Hacktoberfest_2022_contributors_guidelines.md](https://github.com/meilisearch/.github/blob/main/Hacktoberfest_2022_contributors_guidelines.md) | [@Luna-Meili](https://github.com/Luna-Meili) | [Github](https://github.com/meilisearch/.github) | 2022-09-26 |
 | 20 | [Meilisearch returns for Hacktoberfest 2022!](https://blog.meilisearch.com/contribute-hacktoberfest-2022/) | [@Luna-Meili](https://github.com/Luna-Meili) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-09-27 |
+| 21 | [What's new in v0.29](https://blog.meilisearch.com/whats-new-in-v0-29/) | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-10-03 |
+| 22 | [Are you returning the search results your users want?](https://blog.meilisearch.com/matching-strategy/) | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-10-04 |
+
 
