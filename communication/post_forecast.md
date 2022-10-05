@@ -5,9 +5,9 @@ Status options: `not started`, `writing in progress`, `expert review needed`, `e
 | Topic/Title | Link | Author | Medium | ETA | Status |
 |---|---|---|---|---|---|
 | Topic of your post | Link to the post being written | Your name | Mediums where the post will be published | Tentative date for the publication | Status of the publication process |
-| Blog post coming along our next PR |  | [@qdequele](https://github.com/qdequele) | [Meilisearch blog](https://blog.meilisearch.com/) | 🚨 2022-10-07 | `not started` |
 | Cloud Pricing and Plan FAQ | [Notion](https://www.notion.so/meilisearch/Pricing-and-Plan-FAQ-a5e5e24364bb41979724815c808b7887) _(private link)_ | [@oluademola](https://github.com/oluademola) | [Meilisearch Cloud website](https://cloud.meilisearch.com/) |🚨 2022-10-10 | `editorial review in progress` |
-| Salaries at Meilisearch | [Notion](https://www.notion.so/meilisearch/Blog-article-Salaries-at-Meilisearch-347266420da840d6bc61b1938587950b) _(private link)_ | [@morganeff](https://github.com/morganeff) | [Meilisearch blog](https://blog.meilisearch.com/) |🚨 2022-10-13| `editorial review needed` |
+| Blog post coming along our next PR |  | [@qdequele](https://github.com/qdequele) | [Meilisearch blog](https://blog.meilisearch.com/) | 🚨 2022-10-12 (TBC) | `not started` |
+| Salaries at Meilisearch | [Notion](https://www.notion.so/meilisearch/Blog-article-Salaries-at-Meilisearch-347266420da840d6bc61b1938587950b) _(private link)_ | [@morganeff](https://github.com/morganeff) | [Meilisearch blog](https://blog.meilisearch.com/) |🚨 2022-10-13 | `editorial review needed` |
 | A content piece about connectors with MySQL and PostgreSQL databases (possibly using Airbyte or any nocode/low-code solution) |  | TBD | TBD | 2022-09-26 (TBC) | `not started` |
 | Post update: How to implement Instant Search within 5 minutes in your React App!| [Ghost preview](https://blog.meilisearch.com/p/9c11f742-041f-4d39-b955-c6e2d6ef1683/) | [@CaroFG](https://github.com/CaroFG) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-10-06 | `writing in progress` |
 | ProductHunt description | https://github.com/meilisearch/tmp-public-release-cloud/issues/52 | [@qdequele](https://github.com/qdequele) | [Product Hunt](https://www.producthunt.com/) | 2022-10-10 (TBC) | `not started` |
