@@ -5,7 +5,7 @@ Status options: `not started`, `writing in progress`, `expert review needed`, `e
 | Topic/Title | Link | Author | Medium | ETA | Status |
 |---|---|---|---|---|---|
 | Topic of your post | Link to the post being written | Your name | Mediums where the post will be published | Tentative date for the publication | Status of the publication process |
-| Blog post coming along our next PR |  | [@qdequele](https://github.com/qdequele) & [@tpayet](https://github.com/tpayet) | [Meilisearch blog](https://blog.meilisearch.com/) | 🚨 2022-10-20 (TBC) | `expert review in progress` |
+| Blog post coming along our next PR |  | [@qdequele](https://github.com/qdequele) & [@tpayet](https://github.com/tpayet) | [Meilisearch blog](https://blog.meilisearch.com/) | 🚨 2022-10-20 (TBC) | `editorial review needed` |
 | Interview with Clémentine |  | [@Luna-meili](https://github.com/Luna-meili)| [Meilisearch blog](https://blog.meilisearch.com/) | 🚨 2022-10-27  | `writing in progress`|
 | Cloud Pricing and Plan FAQ | [Notion](https://www.notion.so/meilisearch/Pricing-and-Plan-FAQ-a5e5e24364bb41979724815c808b7887) _(private link)_ | [@oluademola](https://github.com/oluademola) | [Meilisearch Cloud website](https://cloud.meilisearch.com/) |2022-10-26 (TBC) | `editorial review finished` |
 |How the Meilisearch Integrations team used Docker to increase productivity!| [Notion](https://www.notion.so/meilisearch/How-the-Meilisearch-Integrations-team-used-Docker-to-increase-productivity-6b0857b5c2594be1a026d9f242bdf3d0) _(private link)_  | [@brunoocasali](https://github.com/brunoocasali) | [Meilisearch blog](https://blog.meilisearch.com/) | 2022-10-31 (TBC) | `writing in progress` |
