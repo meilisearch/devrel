@@ -11,7 +11,7 @@ This content will go through an expert review from Meilisearch team members and 
 
 ## Tools
 
-We'll follow the progress of a post from the idea to publication with [this table](https://www.notion.so/meilisearch/Post-forecast-a5b3ede0ee744553bfa63810807ac507).
+We'll follow the progress of a post from the idea to publication with [this table](https://meilisearch.notion.site/Post-forecast-a5b3ede0ee744553bfa63810807ac507).
 
 ## Process
 
