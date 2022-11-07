@@ -11,13 +11,13 @@ This content will go through an expert review from Meilisearch team members and 
 
 ## Tools
 
-We'll follow the progress of a post from the idea to publication with [this table](https://github.com/meilisearch/devrel/blob/main/communication/post_forecast.md).
+We'll follow the progress of a post from the idea to publication with [this table](https://meilisearch.notion.site/Post-forecast-a5b3ede0ee744553bfa63810807ac507).
 
 ## Process
 
 | Stage | Stage description | Action for the author | Action for the Documentation team |
 |---|---|---|---|
-| 1 | A Meilisearch member or an external contributor decides to write a post. | The author has to create a new row in the [post forecast table](https://github.com/meilisearch/devrel/blob/main/communication/post_forecast.md) in this repo with the following field values:<br>- **Topic/title**: the topic or title of the content piece<br>- **Link**: a link to the post being written on **Google docs** <br>- **Author**: the author name<br>- **Medium**: mediums where the post should be published (sometimes it's not the blog)<br>- **Status**: `not started`.<br>- **ETA**: tentative publication date. If this date is a hard deadline, precede it with a 🚨 |  |
+| 1 | A Meilisearch member or an external contributor decides to write a post. | The author has to create a new row in the [post forecast table](https://www.notion.so/meilisearch/Post-forecast-a5b3ede0ee744553bfa63810807ac507) in Meilisearch's Notion workspace with the following field values:<br>- **Topic/title**: the topic or title of the content piece<br>- **Link**: a link to the post being written on **Google docs** <br>- **Author**: the author name<br>- **Medium**: mediums where the post should be published (sometimes it's not the blog)<br>- **Status**: `not started`.<br>- **Publication date**: tentative publication date. If this date is a hard deadline, precede it with a 🚨 |  |
 | 2 | The author writes the post. We advise the use of a [writing assistant](https://github.com/meilisearch/devrel/blob/main/process/blog_process.md#tools).| Change **Status** to `writing in progress` |  |
 | 3 | The author has finished the first draft of the post.<br>The post is ready for review by the expert committee or any other required feedback on the content (e.g., a team manager). | Change **Status** to `expert review needed` |  |
 | 4 | The expert committee is currently reviewing the post. The author may update the content accordingly in this stage and require other expert reviews. | Change **Status** to `expert review in progress` |  |
@@ -29,6 +29,6 @@ We'll follow the progress of a post from the idea to publication with [this tabl
 
 ## Process compliance failure
 
-### ETA update
+### Publication date update
 
-If the ETA is modified (this can be a delay or adding a heard deadline), the group responsible for the ETA update (this can be the author during stages 1 to 4 and 8 to 9, or the documentation team during stages 5 to 7) has to tag the other group and the DevRel team in the ETA update PR and make sure that they are aware of this change.
+If the publication date is modified (this can be a delay or adding a heard deadline), the group responsible for the publication date update (this can be the author during stages 1 to 4 and 8 to 9, or the documentation team during stages 5 to 7) has to notify the other group and the DevRel team and make sure that they are aware of this change.
