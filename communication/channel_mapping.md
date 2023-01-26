@@ -3,7 +3,7 @@ Following a project initiated in [#72](https://github.com/meilisearch/devrel/iss
 | Category | Channel | Use case |
 |---|---|---|
 | Email | bonjour@meilisearch.com | Used for anything at the moment: support, inquiries... |
-| Slack | [Slack community](https://slack.meilisearch.com/): all public channels and DM | Announcements, support, community |
+| Discord | [Discord community](https://discord.gg/meilisearch): all public channels and DM | Announcements, support, community |
 | Crisp | [Instant messaging](https://app.crisp.chat/) _(private link)_ | Support, general inquiries |
 | GitHub | [Github Discussions](https://github.com/meilisearch/MeiliSearch/discussions) | feature requests, bug, support |
 | GitHub | GitHub issues for [Meilisearch repo](https://github.com/meilisearch/MeiliSearch/issues) and other repos owned by the DevRel team | feature requests, bug, support |
