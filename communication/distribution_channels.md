@@ -5,7 +5,7 @@ Reproducing the list of the distribution channels we can thin ok for our content
 - [ ] [Meilisearch website](https://www.meilisearch.com/)
 - [ ] [Blog](https://blog.meilisearch.com/)
 - [ ] Newsletter
-- [ ] [Meilisearch Slack community](https://slack.meilisearch.com/)
+- [ ] [Meilisearch Discord community](https://discord.gg/meilisearch)
 - [ ] Social media
   - [ ] Share Posts on:
     - [ ] [Twitter](https://twitter.com/meilisearch/)
