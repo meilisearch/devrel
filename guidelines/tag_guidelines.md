@@ -1,4 +1,4 @@
-# Blog Tag guidelines
+# Blog tag guidelines
 
 A blog tag is a word or phrase that describes what your post is about.
 
