@@ -9,8 +9,10 @@ To make tag suggestions, please [create an issue](https://github.com/meilisearch
 ## List of tags & description
 
 - `community`: hacktoberfest, events, and community-related content
+- `company-news`: company announcements
 - `future-of-work`: HR & employee experience
 - `meet-the-team`: series of interviews with Meilisearch employees
 - `release`: main changes introduced by new Meilisearch versions
+- `state-of-search`: search experience
+- `tech-tools`: tools that make our workflow easier
 - `using-meilisearch`: tutorials, guides and posts about demos
-- `company-news`: company announcements
