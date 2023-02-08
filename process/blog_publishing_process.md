@@ -47,7 +47,7 @@ Once an article has been reviewed, authors need to follow the steps below to mak
 
 💡 To see what your post will look like once published, you can click on `Preview` at the top right corner of the Ghost editor. By clicking on the Twitter icon you'll also have a preview of how it will look like when shared on social media or when found on Google. 
 
-12. Create a PR to change the status of the blog post to `ready for publication` in the [post forecast table](https://github.com/meilisearch/devrel/blob/main/communication/post_forecast.md) and add the [desired tags](https://github.com/meilisearch/devrel/issues/466) in the PR comment
+12. Change the status of the blog post to `ready for publication` in the [post forecast table](https://www.notion.so/meilisearch/Post-forecast-a5b3ede0ee744553bfa63810807ac507) and add the [desired tag](https://github.com/meilisearch/devrel/blob/main/guidelines/tag_guidelines.md) in the dedicated column
 
 ## Post-publication corrections
 If you realize you need to make corrections after the post has been published, please follow the steps described below:
