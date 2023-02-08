@@ -38,7 +38,7 @@ Once an article has been reviewed, authors need to follow the steps below to mak
 
 10. Open the `Post settings` by clicking on the icon next to the `Save` button at the top right corner of the page:
     - Add the Post URL. Make sure it complies with the [URL guidelines](https://github.com/meilisearch/devrel/blob/main/guidelines/url_guidelines.md)
-    - Add the excerpt of the post: it is limited to 300 characters, but it is better to make it shorter. You can check the [excerpt guidelines](https://github.com/meilisearch/devrel/issues/453)
+    - Add the excerpt of the post: it is limited to 300 characters, but it is better to make it shorter: around 155 characters. You can check the [excerpt guidelines](https://github.com/meilisearch/devrel/blob/main/guidelines/excerpt_guidelines.md)
     
     <img src="https://user-images.githubusercontent.com/48251481/172436396-a3829311-92b5-49cf-bae5-6a777603a24c.png" width="25%">
 
