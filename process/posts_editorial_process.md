@@ -25,8 +25,9 @@ We'll follow the progress of a post from the idea to publication with [this tabl
 | 6 | The author has a draft ready for editorial review by Meilisearch's documentation team and tags the Documentation team (@meilisearch/docs-team). | Change **Status** to `editorial review needed` |  |
 | 7 | Meilisearch's documentation team is currently reviewing the post. |  | - Change **Status** to `editorial review in progress` <br>- Add the reviewer's name to the **Reviewer** column  |
 | 8 | Meilisearch's documentation team has finished reviewing the post and notify the author. |  | Change **Status** to `editorial review finished` |
-| 9 | The author reviews the suggestions made by the proofreaders.<br>The author repeats steps 5 to 7 until the post is ready for publication.  | - Change **Status** to `ready for publication`|  |
-| 10 | Meilisearch's DevRel team takes care of the publication if Meilisearch owns the medium,<br>otherwise, the author takes care of getting the post published. | - Update the **Link** field with the URL of the published post <br> - Change **Status** to `published` <br>- Follow the process to indicate what info is in the post for maintenance reasons. See [#348](https://github.com/meilisearch/devrel/issues/348) |  |
+| 9 | The author reviews the suggestions made by the proofreaders.  |The author repeats steps 5 to 7 if necessary. |  |
+| 10 | The author follows the [blog publishing process](https://github.com/meilisearch/devrel/blob/main/process/blog_publishing_process.md) until the post is ready for publication.  | - Change **Status** to `ready for publication`|  |
+| 11 | Meilisearch's DevRel team takes care of the publication if Meilisearch owns the medium,<br>otherwise, the author takes care of getting the post published. | - Update the **Link** field with the URL of the published post <br> - Change **Status** to `published` <br>- Follow the process to indicate what info is in the post for maintenance reasons. See [#348](https://github.com/meilisearch/devrel/issues/348) |  |
 
 ## Process compliance failure
 
