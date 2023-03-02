@@ -1,7 +1,7 @@
 
 | Timestamp | Action | Stakeholder |
 |---|---|---|
-| 4 weeks before release | Meet with engine team to discuss new/improved features of next version. | [@Luna-meili](https://github.com/Luna-meili), [@CaroFG](https://github.com/CaroFG), [@Strift](https://github.com/Strift) |
+| 4 weeks before release | Meet with Guillaume to discuss new/improved features of next version. | [@Luna-meili](https://github.com/Luna-meili), [@CaroFG](https://github.com/CaroFG), [@Strift](https://github.com/Strift) |
 | 4 weeks before release | Choose which features to write about and who will write. | [@Luna-meili](https://github.com/Luna-meili), [@CaroFG](https://github.com/CaroFG), [@Strift](https://github.com/Strift) |
 | 4 weeks before release | Decide if we should do a demo, and if so, decide the topic | [@CaroFG](https://github.com/CaroFG), [@Strift](https://github.com/Strift) |
 | 4 weeks before release | Create tmp-release channel on Slack for coordination | [@Luna-meili](https://github.com/Luna-meili) |
