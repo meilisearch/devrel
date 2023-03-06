@@ -3,7 +3,7 @@
 |---|---|---|
 | 4 weeks before release | Meet with Guillaume to discuss new/improved features of next version. | [@Luna-meili](https://github.com/Luna-meili), [@CaroFG](https://github.com/CaroFG), [@Strift](https://github.com/Strift) |
 | 4 weeks before release | Choose which features to write about and who will write. | [@Luna-meili](https://github.com/Luna-meili), [@CaroFG](https://github.com/CaroFG), [@Strift](https://github.com/Strift) |
-| 4 weeks before release | Decide if we should do a demo, and if so, decide the topic | [@CaroFG](https://github.com/CaroFG), [@Strift](https://github.com/Strift) |
+| 4 weeks before release | Decide if we should do a demo, and if so, decide the topic. Discuss requirements with the [Integration](https://github.com/orgs/meilisearch/teams/integration-team) and [Cloud](https://github.com/orgs/meilisearch/teams/cloud-team) teams if needed. | [@CaroFG](https://github.com/CaroFG), [@Strift](https://github.com/Strift) |
 | 4 weeks before release | Create tmp-release channel on Slack for coordination | [@Luna-meili](https://github.com/Luna-meili) |
 | 4 weeks before release | Authors start working on their blog posts | [@Luna-meili](https://github.com/Luna-meili), [@CaroFG](https://github.com/CaroFG), [@Strift](https://github.com/Strift) |
 | 4 weeks before release | Content calendar to be written | [@Luna-meili](https://github.com/Luna-meili) |
