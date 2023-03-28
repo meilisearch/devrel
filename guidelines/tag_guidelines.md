@@ -14,5 +14,5 @@ To make tag suggestions, please [create an issue](https://github.com/meilisearch
 - `meet-the-team`: series of interviews with Meilisearch employees
 - `release`: main changes introduced by new Meilisearch versions
 - `state-of-search`: search experience
-- `tech-tools`: tools that make our workflow easier
+- `engineering`: tehcnical content not related to using Meilisearch
 - `using-meilisearch`: tutorials, guides and posts about demos
