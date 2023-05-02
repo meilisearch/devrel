@@ -16,3 +16,4 @@ To make tag suggestions, please [create an issue](https://github.com/meilisearch
 - `release`: main changes introduced by new Meilisearch versions
 - `state-of-search`: search experience
 - `using-meilisearch`: tutorials, guides and posts about demos
+- `customers`: customers and users of Meilisearch
