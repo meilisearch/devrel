@@ -61,7 +61,7 @@ The main KPI is the **number of Meilisearch instance launches** _(edit: previous
 
 | ID | KPI desc | Data | Chart |
 |---|---|---|---|
-| 0 | Number of Meilisearch instance launches | from telemetry data | [Amplitude](https://analytics.amplitude.com/meili/chart/4n55ed9) _(private link)_  |
+| 0 | Number of Meilisearch instance launches | from telemetry data | [Amplitude](https://analytics.amplitude.com/meili/chart/k4i320oe) _(private link)_  |
 | 1 | Number of contributors| from [Orbit](https://app.orbit.love/meili/members?affiliation=member&activity_type=pull_requests%3Amerged&relative=last_30_days&rt=1)  _(private link)_| asked in [#327](https://github.com/meilisearch/devrel/issues/327#issuecomment-1105458945)  |
 | 2 | Number of contributions | from Orbit | [Amplitude](https://analytics.amplitude.com/meili/chart/zg5terf) _(private link)_  |
 | 3 | Number of GitHub Stars | from Github | [Amplitude](https://analytics.amplitude.com/meili/chart/obexvb7) _(private link)_ |
