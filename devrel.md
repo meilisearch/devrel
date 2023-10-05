@@ -85,8 +85,8 @@ Here is an exhaustive list of developer relations activity categories. We are ta
 - Speaking at conferences, including creating slides & demos
 - Organizing and speaking at meetups, including creating slides & demos
 
-### Slack Community Management
-- Ensuring a healthy and active Slack community
+### Discord Community Management
+- Ensuring a healthy and active Discord community
 
 ### Social Media Management
 - Posting, commenting, and replying on social media accounts
