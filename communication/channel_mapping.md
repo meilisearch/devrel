@@ -5,8 +5,8 @@ Following a project initiated in [#72](https://github.com/meilisearch/devrel/iss
 | Email | bonjour@meilisearch.com | Used for anything at the moment: support, inquiries... |
 | Discord | [Discord community](https://discord.gg/meilisearch): all public channels and DM | Announcements, support, community |
 | Crisp | [Instant messaging](https://app.crisp.chat/) _(private link)_ | Support, general inquiries |
-| GitHub | [Github Discussions](https://github.com/meilisearch/MeiliSearch/discussions) | feature requests, bug, support |
-| GitHub | GitHub issues for [Meilisearch repo](https://github.com/meilisearch/MeiliSearch/issues) and other repos owned by the DevRel team | feature requests, bug, support |
+| GitHub | [Github Discussions](https://github.com/meilisearch/Meilisearch/discussions) | feature requests, bug, support |
+| GitHub | GitHub issues for [Meilisearch repo](https://github.com/meilisearch/Meilisearch/issues) and other repos owned by the DevRel team | feature requests, bug, support |
 | Twitter | Any interactions with [Meilisearch's Twitter account](https://twitter.com/meilisearch) | Announcements, inquiries |
 | Linkedin | Any interactions with [Meilisearch's Linkedin account](https://www.linkedin.com/company/meilisearch) | Announcements |
 

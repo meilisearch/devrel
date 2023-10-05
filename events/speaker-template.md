@@ -6,7 +6,7 @@
 
 ## Topics
 
-*List of topics (ASC) you would be open to talk about (i.e. MeiliSearch, Rust, serverless...)*
+*List of topics (ASC) you would be open to talk about (i.e. Meilisearch, Rust, serverless...)*
 
 ## Experience
 

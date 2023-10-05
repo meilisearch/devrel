@@ -1,6 +1,6 @@
-# New MeiliSearch releases - what to do
+# New Meilisearch releases - what to do
 
-Those are the steps we need to take every time we release a new version of MeiliSearch.
+Those are the steps we need to take every time we release a new version of Meilisearch.
 Exceptions: alpha versions
 
 ## Table of Contents
@@ -20,7 +20,7 @@ Right now, unless mentioned, the tasks for a new release on the developer relati
 Start of the monthly release cycle
 
 1. Create a draft  on a branch called `prepare-meilisearch-[YYYY]-[WW]` (e.g.: prepare-meilisearch-2020-W3 for the third week of the year 2020) in the [documentation repository](https://github.com/meilisearch/documentation).
-2. Add every PR from the corresponding [MeiliSearch Milestone](https://github.com/meilisearch/MeiliSearch/milestones) to the body of the `prepare-meilisearch-[YYYY]-[WW]` PR, with empty checkboxes next to each.
+2. Add every PR from the corresponding [Meilisearch Milestone](https://github.com/meilisearch/Meilisearch/milestones) to the body of the `prepare-meilisearch-[YYYY]-[WW]` PR, with empty checkboxes next to each.
 3. Strikeought the PR that don't need documentation modification.
 4. Check the corresponding box once the relevant documentation has been added.
 5. The documentation should contain at minimum references for the new feature(s), if any.
@@ -43,10 +43,10 @@ Start of the monthly release cycle
 1. The `prepare-meilisearch-[YYYY]-[WW]` branch should be merged with the [master branch](https://github.com/meilisearch/documentation/tree/master). The updated version of the documentation should be [automatically deployed](https://docs.meilisearch.com/) momentarily.
 2. Once the new documentation version is deployed, we should publish the blog post, if any.
 
-_For the next steps, we will share the blog post; if none, we will share the [release notes](https://github.com/meilisearch/MeiliSearch/releases) from GitHub._
+_For the next steps, we will share the blog post; if none, we will share the [release notes](https://github.com/meilisearch/Meilisearch/releases) from GitHub._
 
 3. Share in the #general channel of our [Slack community](https://slack.meilisearch.com/) as yourself;
-4. Share on [GitHub Discussions](https://github.com/meilisearch/MeiliSearch/discussions) as yourself;
+4. Share on [GitHub Discussions](https://github.com/meilisearch/Meilisearch/discussions) as yourself;
 5. Share on [Twitter](https://twitter.com/meilisearch) (from Mention);
 
 _If the release contains enough interesting new features, we should:_

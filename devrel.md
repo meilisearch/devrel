@@ -1,5 +1,5 @@
-# Developer Relations at MeiliSearch
-You can find some information about how we do Developer Relations at MeiliSearch: the foundation of devrel (3Cs), our lean startup approach and the list of activities we do.
+# Developer Relations at Meilisearch
+You can find some information about how we do Developer Relations at Meilisearch: the foundation of devrel (3Cs), our lean startup approach and the list of activities we do.
 
 ## Table of Contents
 - [The 3Cs](#the-3cs)
@@ -40,7 +40,7 @@ Priority P0 is for urgent things needed on our team or another team needing our 
 Priority P1 is for non-negotiable tasks that will help us achieve our goals with the maximum impact. Those are the tasks, when planned for a quarter, that should be done by the next one.
 
 ### P2 - Should Have
-Priority P2 is for important initiatives that may not bring as much value to the team than the P1. It includes things we should do that won’t directly help us achieve our goals, but needed to move in the right direction. A P2 can become P1 when they are critical for the business or are prerequisites for another P1 (i.e.: changing the documentation framework—we need it to manage different versions of MeiliSearch after v1, but it has no direct impact on our goals).
+Priority P2 is for important initiatives that may not bring as much value to the team than the P1. It includes things we should do that won’t directly help us achieve our goals, but needed to move in the right direction. A P2 can become P1 when they are critical for the business or are prerequisites for another P1 (i.e.: changing the documentation framework—we need it to manage different versions of Meilisearch after v1, but it has no direct impact on our goals).
 
 ### P3 - Could have
 Priority P3 is for nice to have initiatives: they have a small impact, and are mostly done when we have the time.
@@ -52,7 +52,7 @@ Priority P4 have a misleading title: will not have is mostly about our team. The
 Here is an exhaustive list of developer relations activity categories. We are taking activities that could be managed by a marketing or social media team for now.
 
 ### Blog Management
-- Writing blog posts for MeiliSearch or as a guest elsewhere
+- Writing blog posts for Meilisearch or as a guest elsewhere
 - Managing external writers, whether volunteers or paid freelancers
 
 ### Code Contributions Managemeny
@@ -64,7 +64,7 @@ Here is an exhaustive list of developer relations activity categories. We are ta
 - Resolving documentation-related issues and maintaining the repository
 
 ### Learning Resource Creation
-- Creating demo applications using MeiliSearch
+- Creating demo applications using Meilisearch
 - Creating helpful code snippets
 - Creating example datasets
 
@@ -79,7 +79,7 @@ Here is an exhaustive list of developer relations activity categories. We are ta
 - Writing and sending the newsletter
 
 ### Podcast
-- Participating in external audio podcasts or running the official MeiliSearch podcast, if we create one
+- Participating in external audio podcasts or running the official Meilisearch podcast, if we create one
 
 ### Public Speaking
 - Speaking at conferences, including creating slides & demos
