@@ -2,7 +2,7 @@
 
 ![IMG-20190926-WA0000](https://user-images.githubusercontent.com/48251481/109692713-2071d880-7b89-11eb-94d5-444da042c88a.jpg)
 
-As a Developer Advocate, Carolina Ferreira helps developers have the best possible experience with the open-source search engine MeiliSearch. A former teacher turned developer, Carolina brings her patience and experience in the classroom to her new role in the tech industry. She believes that success comes hand in hand with helping, sharing, and elevating others.
+As a Developer Advocate, Carolina Ferreira helps developers have the best possible experience with the open-source search engine Meilisearch. A former teacher turned developer, Carolina brings her patience and experience in the classroom to her new role in the tech industry. She believes that success comes hand in hand with helping, sharing, and elevating others.
 
 ## Topics
 
@@ -11,11 +11,11 @@ TBD
 ## Experience
 
 - [Rawkode Live](https://www.youtube.com/channel/UCrber_mFvp_FEF7D9u8PDEA) (2021/02/16)
-   Introduction to MeiliSearch
+   Introduction to Meilisearch
    https://www.youtube.com/watch?v=SJl2UWfy1nk
    
 - [Back to the living room hackathon](https://backtothelivingroom.tech/) (20201/02/05) 
-   MeiliSearch: the future of search engines
+   Meilisearch: the future of search engines
    https://www.youtube.com/watch?v=4aiUCYEOVgo
 
 ## Links

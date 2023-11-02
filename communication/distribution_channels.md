@@ -10,7 +10,7 @@ Reproducing the list of the distribution channels we can thin ok for our content
   - [ ] Share Posts on:
     - [ ] [Twitter](https://twitter.com/meilisearch/)
     - [ ] [LinkedIn](https://www.linkedin.com/company/meilisearch)
-    - [ ] [Reddit](https://www.reddit.com/)/[Meilisearch sub-reddit](https://www.reddit.com/r/MeiliSearch/)
+    - [ ] [Reddit](https://www.reddit.com/)/[Meilisearch sub-reddit](https://www.reddit.com/r/Meilisearch/)
     - [ ] [Hacker News](https://news.ycombinator.com/)
   - [ ] Re-post on social media 
 - [ ] SEO
